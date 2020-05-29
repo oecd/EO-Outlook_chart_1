@@ -92,13 +92,20 @@
 
     <script  type="text/javascript">
                     
+        var width = document.getElementById("chartSlider").offsetWidth - margin.left - margin.right;
         $(document).ready(function () {
             $('#country_dropdown').select2({ width: '180px' });               
         });
 
-        $(document).ready(function () {
-            $('#indicator_dropdown').select2({ width: '415px'  });
-        });
+        if (width > 650)
+            $(document).ready(function () {
+                $('#indicator_dropdown').select2({ width: '415px' });
+            });
+        else
+            $(document).ready(function () {
+                $('#indicator_dropdown').select2({ width: '180px' });
+            });
+        
 
         var urls = {
             scenario1: "data/EO107_INTERNET_1.tsv",
@@ -117,10 +124,6 @@
 
         var allScenario1,allScenario2, allCou;
         var popupWidth;
-        var heightChart;
-        var margin_chart
-        var xScale;
-        var yScale;
 
 
         var color=["#E73741","#0F8FD9","#993484","#DF521E","#719E24"];
@@ -129,9 +132,11 @@
 
         var mapRatio = 9/20;;
 
-        var width = document.getElementById("chartSlider").offsetWidth - margin.left - margin.right,
-            height = width * mapRatio;
-
+        var height;
+        if (width>650)
+            height = width * mapRatio;  
+        else
+            height = width;
 
 
         var scenario1SVG = d3.select("#scenario1").append("svg")
