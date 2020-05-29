@@ -73,11 +73,13 @@
         </div>
         <div id="selCountry">
             <select id="country_dropdown" data-maximum-selection-length="2" 2 multiple="multiple">
-
+               <!-- <option value="OTO" selected="selected">OECD - Total</option>-->
             </select>
         </div>
         <div id="selIndicator">
             <select id="indicator_dropdown">
+
+               <!--- <option value="GDP_ANNPCT" selected="selected">Gross domestic product, nominal value, growth</option>-->
             </select>
         </div>
     </div>
@@ -106,7 +108,7 @@
         var mapRatio = 9 / 20;
 
     var width = document.getElementById("chartSlider").offsetWidth - margin.left - margin.right;
-    
+
         var height;
         if (width > 650)
             height = width * mapRatio;
@@ -186,7 +188,7 @@
                 count++;
                 if (count == data.length-1){
                     //  $('#country_dropdown').select2().select2('val', 'OTO');
-                    $('#country_dropdown').select2().val('OTO');
+                    $('#country_dropdown').select2().val('OTO').trigger('change');;
                 }
                     
             })
@@ -207,7 +209,7 @@
                 if(count==data.length-1){
                     
                     //$('#indicator_dropdown').select2().select2('val', 'GDPVD_CAP');
-                    $('#country_dropdown').select2().val('GDPVD_CAP');
+                    $('#indicator_dropdown').select2().val('GDP_ANNPCT').trigger('change');;
                 }
 
             })
@@ -230,6 +232,8 @@
                 set_Cou_Dropdown(countryList);
                 set_Ind_Dropdown(indicatorList);
 
+            updateChart();
+
             
         }
         function countryName(ISOcode){
@@ -245,7 +249,6 @@
 
         function updateChart(){
 
-
             scenario1SVG.selectAll("*").remove()
 
             scenario2SVG.selectAll("*").remove()
@@ -254,6 +257,8 @@
             selCountries=$('#country_dropdown').select2("val");
             selindic = $('#indicator_dropdown').select2("val");
 
+            console.log(selCountries)
+            console.log(selindic)
             
             var data1= allScenario1.filter(function(d){ return (d.LOCATION== selCountries[0] && d.VARIABLE== selindic && dateParser(d.TIME) >= dateParser(startChart)) || (d.LOCATION == selCountries[1] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart));})
             var data2 = allScenario2.filter(function (d) { return (d.LOCATION == selCountries[0] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart)) || (d.LOCATION == selCountries[1] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart)); })
