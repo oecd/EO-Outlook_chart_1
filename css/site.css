@@ -1041,3 +1041,37 @@ tr:nth-child(even){background-color: #f2f2f2}
 
 .img-comp-slider:before{content:'Double-hit scenario';position:absolute;top:165%;left:-10;font-family:'National 2 Web';text-align:right;font-weight:600;-webkit-transform:translate(-100%,calc(-50% - 60px));-ms-transform:translate(-100%,calc(-50% - 40px));transform:translate(-100%,calc(-50% - 40px));background:#39617D;color:#fff;width:150px;pointer-events:all;padding:.5rem .5rem;border-top-left-radius:3px;border-bottom-left-radius:3px}
 .img-comp-slider:after{content:'Single-hit scenario';position:absolute;top:165%;left:46;font-family:'National 2 Web';text-align:left;font-weight:600;-webkit-transform:translate(4px,calc(-50% - 60px));-ms-transform:translate(4px,calc(-50% - 40px));transform:translate(4px,calc(-50% - 40px));text-align:left;background:#39617D;color:#fff;width:150px;pointer-events:all;padding:.5rem .5rem;border-top-right-radius:3px;border-bottom-right-radius:3px}
+
+
+
+
+@media only screen and (max-width: 650px) {
+#selIndicator{
+    margin-left: 1.2em;
+}
+  #indicator_dropdown{
+
+  margin: 5px 0px 5px 0px;
+  max-width: 180px;
+  }
+}
+
+
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: #F1F3F3;
+  stroke: #6F257F;
+  stroke-width: 5px;
+}
+  
+.hover-line {
+  stroke: #6F257F;
+  stroke-width: 2px;
+  stroke-dasharray: 3,3;
+}
+
