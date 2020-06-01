@@ -96,19 +96,22 @@
     <script  type="text/javascript">
                     
         var startChart = "2018-Q1";
-        var startForecast = "2020-Q1";
+        var startForecast = "2020-Q2";
 
         var allScenario1, allScenario2, allCou;
         var popupWidth;
 
+        var divMap = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
 
         var color = ["#E73741", "#0F8FD9", "#993484", "#DF521E", "#719E24"];
 
-        var margin = { top: 10, right: 50, bottom: 30, left: 80 };
+        var margin = { top: 70, right: 50, bottom: 30, left: 80 };
 
-        var mapRatio = 9 / 20;
+        var mapRatio = 8 / 20;
 
-    var width = document.getElementById("chartSlider").offsetWidth - margin.left - margin.right;
+        var width = document.getElementById("chartSlider").offsetWidth - margin.left - margin.right;
 
         var height;
         if (width > 650)
@@ -171,8 +174,9 @@
             
             return d3.timeParse('%m-%Y')(quarterStartMonth + '-' + splitted[0]);
         }
+        
 
-        var bisectDate = d3.bisector(function (d) { return d.TIME; }).left;
+        var bisectDate = d3.bisector(function (d) { return dateParser(d.TIME); }).left;
         //Add Y axis
         var y = d3.scaleLinear() //or scaleLog
             .range([height, 0]);
@@ -257,8 +261,6 @@
             selCountries=$('#country_dropdown').select2("val");
             selindic = $('#indicator_dropdown').select2("val");
 
-            console.log(selCountries)
-            console.log(selindic)
             
             var data1= allScenario1.filter(function(d){ return (d.LOCATION== selCountries[0] && d.VARIABLE== selindic && dateParser(d.TIME) >= dateParser(startChart)) || (d.LOCATION == selCountries[1] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart));})
             var data2 = allScenario2.filter(function (d) { return (d.LOCATION == selCountries[0] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart)) || (d.LOCATION == selCountries[1] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart)); })
@@ -274,10 +276,10 @@
                     })
              })
 
-           data2.forEach(function (d) {
+          /* data2.forEach(function (d) {
 
                 data.push({ "TIME": d.TIME, "Unit": d.Unit, "Value": d.Value, "Variable": d.Variable, "Scenario": "Scenario2" })
-            })
+            })*/
             
             if(data1.length >0){
 
@@ -293,7 +295,7 @@
                         .append("g")
                         .attr("class", "axisContext")
                         .attr("transform", "translate(0," + height + ")")
-                        .call(d3.axisBottom(x).ticks(8)
+                        .call(d3.axisBottom(x).ticks(6)
                             .tickFormat(function (x) {
                                 // get the milliseconds since Epoch for the date
                                 var milli = (x + 7884000000);
@@ -318,25 +320,22 @@
                                 }
                             }));
 
-
                     scenarioChart[k].append("g")
                         .attr("class", "axisContext")
                         .call(d3.axisLeft(y).tickFormat(function (d) {
                             return y.tickFormat(10, d3.format(".2f"))(d)
                         }).tickSize(-(width)));
 
-
                     for (i = 0; i < selCountries.length; i++) {
                         // Draw the line
                         scenarioChart[k]
                             .append("path")
-
                             .attr("fill", "none"/*"#8DCD79"*/)
                             .attr("stroke", function (d) { return color[i] })
-                            .attr("stroke-width", function () { if (k == 0) return 6; else return 1;})
+                            .attr("stroke-width", function () { if (k == 0) return 4; else return 1;})
+                            .attr("opacity", function () { if (k == 0) return 1; else return 0.1; })
                             .attr("class", "lineContext")
                             .attr("id", function (d) { return "singleHit" + i; })
-                            //  .attr("id", function (d) { return identifier.split(' ').join('').replace("*", "").replace("\''", "").replace("-", "").replace("(", "").replace(")", "") + "area"; })
                             .attr("d", function (d) {
                                 return d3.line()//area
                                     .x(function (d) { return x(dateParser(d.TIME)); })
@@ -350,12 +349,11 @@
                             .append("path")
                             .attr("fill", "none"/*"#8DCD79"*/)
                             .attr("stroke", function (d) { return color[i] })
-                            .attr("stroke-width", function () { if (k == 0) return 1; else return 6;})
-                            .attr("opacity", function(){if(k==0)return 0.2; else return 1;})
+                            .attr("stroke-width", function () { if (k == 0) return 1; else return 4;})
+                            .attr("opacity", function(){if(k==0)return 0.1; else return 1;})
                             .attr("class", "lineContext")
                             .attr("id", function (d) { return "doubleHit" + i; })
                             .attr("d", function (d) {
-
                                 return d3.line()//area
                                     .x(function (d) { return x(dateParser(d.TIME)); })
                                     // .y0(y(0))
@@ -369,10 +367,9 @@
                             //.datum(data)
                             .attr("fill", "none"/*"#8DCD79"*/)
                             .attr("stroke", function (d) { return "#DDE9EF" })
-                            .style("stroke-dasharray", ("10, 10"))
-                            .attr("stroke-width",  function () { if (k == 0) return 6; else return 1; })
+                            .style("stroke-dasharray", ("5, 5"))
+                            .attr("stroke-width",  function () { if (k == 0) return 4; else return 1; })
                             .attr("class", "lineContext")
-                            //  .attr("id", function (d) { return identifier.split(' ').join('').replace("*", "").replace("\''", "").replace("-", "").replace("(", "").replace(")", "") + "area"; })
                             .attr("d", function (d) {
                                 return d3.line()//area
                                     .x(function (d) { return x(dateParser(d.TIME)); })
@@ -386,8 +383,8 @@
                             .append("path")
                             .attr("fill", "none"/*"#8DCD79"*/)
                             .attr("stroke", function (d) { return "#DDE9EF" })
-                            .style("stroke-dasharray", ("10, 10"))
-                            .attr("stroke-width",  function () { if (k == 0) return 1; else return 6; })
+                            .style("stroke-dasharray", ("5, 5"))
+                            .attr("stroke-width",  function () { if (k == 0) return 1; else return 4; })
                             .attr("class", "lineContext")
                             .attr("d", function (d) {
 
@@ -408,31 +405,33 @@
                             //.attr("class", "lineContext")
                             //  .attr("id", function (d) { return identifier.split(' ').join('').replace("*", "").replace("\''", "").replace("-", "").replace("(", "").replace(")", "") + "area"; })
                             .attr("d", function (d) {
-
                                 return d3.area()
                                     .x(function (d) { return x(dateParser(d.TIME)); })
                                     .y0(function (d) { return y(parseFloat(d.Scenario1Val)); })
                                     .y1(function (d) { return y(parseFloat(d.Scenario2Val)); })
                                     (data1.filter(function (d) { return d.LOCATION == selCountries[i]; }))
                             })
+
                         scenarioChart[k].append("text")
                             .append("textPath") //append a textPath to the text element
                             .attr("xlink:href", function (d) { return "#singleHit" + i; }) //place the ID of the path here
                             .style("text-anchor", "middle") //place the text halfway on the arc
-                            .attr("startOffset", "85%")
-                            .attr("opacity", function () { if (k == 0) return 1; else return 0.15; })
-                            .text(function (d) { return countryName(selCountries[i]) + ": Singlele-hit scenario"; });
+                            .attr("startOffset", function () { if (i == 0) return "85%"; else return "75%"; } )
+                            .attr("class","on-line-label")
+                            .attr("opacity", function () { if (k == 0) return 1; else return 0.1; })
+                            .text(function (d) { return countryName(selCountries[i]) + ": Single-hit scenario"; });
 
                         scenarioChart[k].append("text")
                             .append("textPath") //append a textPath to the text element
                             .attr("xlink:href", function (d) { return "#doubleHit" + i; })  //place the ID of the path here
                             .style("text-anchor", "middle") //place the text halfway on the arc
-                            .attr("startOffset", "85%")
-                            .attr("opacity", function () { if (k == 0) return 0.15; else return 1; })
+                            .attr("startOffset", function () { if (i == 0) return "85%"; else return "75%"; } )
+                            .attr("class", "on-line-label")
+                            .attr("opacity", function () { if (k == 0) return 0.1; else return 1; })
                             .text(function (d) { return countryName(selCountries[i]) + ": Double-hit scenario"; });
 
 
-                       /* var focus = scenarioChart[k].append("g")
+                       var focus = scenario1SVG.append("g")
                             .attr("class", "focus")
                             .style("display", "none");
 
@@ -453,26 +452,127 @@
                             .attr("x", 15)
                             .attr("dy", ".31em");
 
-                        scenarioChart[k].append("rect")
-                            .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+
+                        var focus_2 = scenario2SVG.append("g")
+                            .attr("class", "focus")
+                            .style("display", "none");
+
+                        focus_2.append("line")
+                            .attr("class", "x-hover-line hover-line")
+                            .attr("y1", 0)
+                            .attr("y2", height);
+
+                        focus_2.append("line")
+                            .attr("class", "y-hover-line hover-line")
+                            .attr("x1", width)
+                            .attr("x2", width);
+
+                        focus_2.append("circle")
+                            .attr("r", 7.5);
+
+                        focus_2.append("text")
+                            .attr("x", 15)
+                            .attr("dy", ".31em");
+
+                        scenario1SVG.append("rect")
                             .attr("class", "overlay")
-                            .attr("width", width)
-                            .attr("height", height)
-                            .on("mouseover", function () { focus.style("display", null); })
-                            .on("mouseout", function () { focus.style("display", "none"); })
+                            .attr("width", width + margin.left + margin.right)
+                            .attr("height", height + margin.top + margin.bottom)
+                            .on("mouseover", function () { 
+                                focus.style("display", null); })
+                            .on("mouseout", function () { 
+                                divMap.transition()
+                                    .duration(100)
+                                    .style("opacity", 0);
+                                focus.style("display", "none"); })
+                            .on("mousemove", mousemove);
+
+                        scenario2SVG.append("rect")
+                            .attr("class", "overlay")
+                            .attr("width", width + margin.left + margin.right)
+                            .attr("height", height + margin.top + margin.bottom)
+                            .on("mouseover", function () {
+                                focus_2.style("display", null);
+                            })
+                            .on("mouseout", function () {
+                                divMap.transition()
+                                    .duration(100)
+                                    .style("opacity", 0);
+                                focus_2.style("display", "none");
+                            })
                             .on("mousemove", mousemove);
 
                         function mousemove() {
-                            var x0 = x.invert(d3.mouse(this)[0]),
-                                i = bisectDate(data, x0, 1),
-                                d0 = data[i - 1],
-                                d1 = data[i],
-                                d = x0 - d0.TIME > d1.TIME - x0 ? d1 : d0;
-                            focus.attr("transform", "translate(" + x(dateParser(d.TIME)) + "," + y(d.Value) + ")");
-                            focus.select("text").text(function () { return d.Value; });
-                            focus.select(".x-hover-line").attr("y2", height - y(d.Value));
+                            var x0 = x.invert(d3.mouse(this)[0]);
+
+                            var j = bisectDate(data1.filter(function(k){return k.LOCATION== selCountries[0]}), new Date(x0), 1);
+                            var l = bisectDate(data1.filter(function (k) { return k.LOCATION == selCountries[1] }), new Date(x0), 1);
+
+                            var d0 = data1.filter(function (k) { return k.LOCATION == selCountries[0] })[j-1];
+                            var d1 = data1.filter(function (k) { return k.LOCATION == selCountries[0] })[j];
+                            var d = new Date(x0) - dateParser(d0.TIME) > dateParser(d1.TIME) - new Date(x0) ? d1 : d0;
+                            
+                             var max, max_1, max_tot,d0_1,d1_1,d_1;
+
+                            if(typeof selCountries[1]!= "undefined"){
+                                 d0_1 = data1.filter(function (k) { return k.LOCATION == selCountries[1] })[j - 1];
+                                 d1_1 = data1.filter(function (k) { return k.LOCATION == selCountries[1] })[j];
+                                 d_1 = new Date(x0) - dateParser(d0_1.TIME) > dateParser(d1_1.TIME) - new Date(x0) ? d1_1 : d0_1;
+                            }else{
+                                d0_1=d0;d1_1=d1;d_1=d;
+                            }
+
+                            if(parseFloat(d.Scenario1Val)>=parseFloat(d.Scenario2Val)) max= d.Scenario1Val ; else max= d.Scenario2Val;
+                            if (parseFloat(d_1.Scenario1Val) >= parseFloat(d_1.Scenario2Val)) max_1 = d_1.Scenario1Val; else max_1 = d_1.Scenario2Val; 
+                            if (parseFloat(max) >= parseFloat(max_1)) max_tot = max; else max_tot = max_1;
+                            
+                            focus.attr("transform", "translate(" + x(dateParser(d.TIME)) + "," + y(max_tot) + ")");
+                            focus_2.attr("transform", "translate(" + x(dateParser(d.TIME)) + "," + y(max_tot) + ")");
+
+
+                            if (typeof selCountries[1] != "undefined") {
+                                divMap.transition()
+                                    .duration(100)
+                                    .style("opacity", 1);
+
+                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;"+ d.Country + "</b><br>&nbsp;Single-hit scenario :" +  Math.round(d.Scenario1Val*100)/100+ "%<br>&nbsp;Double-hit scenario :" +  Math.round(d.Scenario2Val*100)/100+ "%<br/><br/><b>&nbsp;" + d_1.Country + "</b><br>&nbsp;Single-hit scenario :" +  Math.round(d_1.Scenario1Val *100)/100+ "%<br>&nbsp;Double-hit scenario :" +  Math.round(d_1.Scenario2Val*100)/100 + "%";
+                                
+                                if(event.pageX < width - 75){
+                                    divMap.html(htmlText)
+                                        .style("left", event.pageX + "px")
+                                        .style("top", event.pageY + "px");
+                                }else{
+                                    divMap.html(htmlText)
+                                        .style("left", width-100  + "px")
+                                        .style("top", event.pageY + "px");
+                                }
+                                // focus.select("text").html(function () { return d.TIME+"<br>"+ Math.round(d.Value*100)/100; });
+                            }else{  
+                                divMap.transition()
+                                    .duration(100)
+                                    .style("opacity", 1);
+                                
+                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;" + d.Country + "</b><br>Single-hit scenario :" +  Math.round(d.Scenario1Val*100)/100 + "%<br>Double-hit scenario :" + Math.round( d.Scenario2Val*100)/100 + "%";
+
+                                if (event.pageX < width - 75) {
+                                    divMap.html(htmlText)
+                                        .style("left", event.pageX + "px")
+                                        .style("top", event.pageY + "px");
+                                } else {
+                                    divMap.html(htmlText)
+                                        .style("left", width - 100 + "px")
+                                        .style("top", event.pageY + "px");
+                                }
+
+                               // focus.select("text").html(function () { return "<b>"+d.TIME+"</b> "+ "<br>" +  Math.round(d.Value * 100) / 100; });
+                            }
+
+                            focus.select(".x-hover-line").attr("y2", height - y(max_tot));
                             focus.select(".y-hover-line").attr("x2", width + width);
-                        }*/
+                            
+                            focus_2.select(".x-hover-line").attr("y2", height - y(max_tot));
+                            focus_2.select(".y-hover-line").attr("x2", width + width);
+                        }
 
 
                     }
@@ -512,7 +612,7 @@
             slider= document.createElement("DIV");
             slider.setAttribute("class", "img-comp-slider-line");
             slider.style.height = height+margin.top+margin.bottom;
-            slider1.style.transform = "translate(-20px,"+(height )/2+"px)";
+            slider1.style.transform = "translate(-20px,"+(margin.top/4)+"px)";
             slider.appendChild(slider1);
             /* Insert slider */
             img.parentElement.insertBefore(slider, img);

@@ -82,7 +82,6 @@ h3 {
 }
 
 #introPara{
-
   font-family: "Noto Sans Display",sans-serif;
   font-size: 1.2em;
   font-weight: 300;
@@ -91,7 +90,6 @@ h3 {
   margin:auto;
   margin-top: 10px;
   margin-bottom: 10px;
-
 }
 
 
@@ -614,9 +612,9 @@ width:175px;
 }
 
 .tableYear{
-  display: inline-block;
+     display: inline-block;
 
-width:150px;
+    width:150px;
     padding-left: 1em;
     font-family: 'Noto Sans', sans-serif;
     font-weight: 100;
@@ -666,8 +664,14 @@ width:150px;
     }
 
 
-#scenario1,#scenario2 {
+#scenario1 {
 	background: #dce2e7;
+	margin-right: 2px;
+	margin-left:2px;
+}
+
+#scenario2 {
+	background: #e6eaee;
 	margin-right: 2px;
 	margin-left:2px;
 }
@@ -1044,6 +1048,12 @@ tr:nth-child(even){background-color: #f2f2f2}
 
 
 
+.on-line-label{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1.35rem;
+  color: #0f293d;
+}
 
 @media only screen and (max-width: 650px) {
 #selIndicator{
@@ -1065,13 +1075,42 @@ tr:nth-child(even){background-color: #f2f2f2}
 
 .focus circle {
   fill: #F1F3F3;
-  stroke: #6F257F;
+  stroke: #8EA4B1;
   stroke-width: 5px;
 }
   
 .hover-line {
-  stroke: #6F257F;
+  stroke: #8EA4B1;
   stroke-width: 2px;
   stroke-dasharray: 3,3;
 }
 
+
+div.tooltip {
+    position:absolute;
+    width: auto;
+    height: auto;
+    max-width: 40%;
+    margin-top: -1.25em;
+    padding: 0.75em 1em;
+    font-family: 'Oswald', sans-serif;
+    /*white-space: nowrap;*/
+    font-size: 20px;
+    font-size: 1.33rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #04629a;
+
+    background: #FFFFFF;
+      -webkit-border-radius: 2px;
+      -moz-border-radius: 2px;
+      border-radius: 2px;
+      -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+      -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+      box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+      pointer-events: none;
+    /*transform: translate(-5%,-5%);*/
+
+    z-index:2;
+}
+/**
