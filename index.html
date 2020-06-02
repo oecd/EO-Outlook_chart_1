@@ -576,6 +576,30 @@
 
 
                     }
+
+
+                    var hide1=scenario1SVG.append("rect")
+                        .attr("fill", "#dce2e7")
+                        .attr("width", width + margin.left + margin.right)
+                        .attr("height", height + margin.top + margin.bottom)
+                    
+                    var hide2 =scenario2SVG.append("rect")
+                        .attr("fill", "#e6eaee")
+                        .attr("width", width + margin.left + margin.right)
+                        .attr("height", height + margin.top + margin.bottom)
+
+            
+                        hide1.transition()
+                        .ease(d3.easeCircle).duration(1750)
+                        .attr("x", width + margin.left + margin.right)
+                        .attr("width", 0)
+                        .attr("height", height + margin.top + margin.bottom)
+
+                        hide2.transition()
+                        .ease(d3.easeCircle).duration(1750)
+                        .attr("x", width + margin.left + margin.right)
+                        .attr("width", 0)
+                        .attr("height", height + margin.top + margin.bottom)
                 }
                
 
