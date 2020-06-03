@@ -1,4 +1,3 @@
-<!-- https://www.w3schools.com/howto/howto_js_image_comparison.asp-->
 <doctype HTML>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -68,7 +67,7 @@
 
 <body>
     <h1>Work in progress</h1>
-    <h2>Drag the cursor to see the impact of the Covid crisis depending on the scenario</h1>
+    <h2>Drag the cursor to see the impact of the Covid crisis depending on the scenario</h2>
     <div id="modedemploi">
         <div id="#intromodedemploi">Select countries and indicator:
         </div>
@@ -98,7 +97,7 @@
         var startChart = "2018-Q1";
         var startForecast = "2020-Q2";
 
-        var allScenario1, allScenario2, allCou;
+        var allScenario1, allScenario2;
         var popupWidth;
 
         var divMap = d3.select("body").append("div")
@@ -136,14 +135,12 @@
 
         var urls = {
             scenario1: "data/EO107_INTERNET_1.tsv",
-            scenario2: "data/EO107_INTERNET_2.tsv",
-            country: "data/coord_country.tsv",
+            scenario2: "data/EO107_INTERNET_2.tsv"
         };
 
         d3.queue()
             .defer(d3.tsv, urls.scenario1)
             .defer(d3.tsv, urls.scenario2)
-            .defer(d3.tsv, urls.country)
             .await(render);
 
 
@@ -220,10 +217,9 @@
 
         }
 
-        function render(err,scenario1Data,scenario2Data,country) {
+        function render(err,scenario1Data,scenario2Data) {
             allScenario1=scenario1Data;
             allScenario2=scenario2Data;
-            allCou=country;
 
             var countryList = d3.nest()
                 .key(function (d) { return d.Country; }).sortKeys(d3.ascending)
@@ -242,8 +238,8 @@
         }
         function countryName(ISOcode){
             var name;
-            allCou.forEach(function (d) {
-                if(d.ISO3== ISOcode){
+            allScenario1.forEach(function (d) {
+                if(d.LOCATION== ISOcode){
                     name= d.Country;
                 }
                 
@@ -323,7 +319,7 @@
                     scenarioChart[k].append("g")
                         .attr("class", "axisContext")
                         .call(d3.axisLeft(y).tickFormat(function (d) {
-                            return y.tickFormat(10, d3.format(".2f"))(d)
+                            return y.tickFormat(10, d3.format(".1f"))(d) + "%"
                         }).tickSize(-(width)));
 
                     for (i = 0; i < selCountries.length; i++) {
@@ -425,9 +421,9 @@
                             .append("textPath") //append a textPath to the text element
                             .attr("xlink:href", function (d) { return "#doubleHit" + i; })  //place the ID of the path here
                             .style("text-anchor", "middle") //place the text halfway on the arc
-                            .attr("startOffset", function () { if (i == 0) return "85%"; else return "75%"; } )
+                            .attr("startOffset", function () { if (i == 0) return "85%"; else return "75%"; } )  
                             .attr("class", "on-line-label")
-                            .attr("opacity", function () { if (k == 0) return 0.1; else return 1; })
+                            .attr("opacity", function () { if (k == 0) return 0.1; else return 1; })                     
                             .text(function (d) { return countryName(selCountries[i]) + ": Double-hit scenario"; });
 
 
@@ -535,7 +531,7 @@
                                     .duration(100)
                                     .style("opacity", 1);
 
-                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;"+ d.Country + "</b><br>&nbsp;Single-hit scenario :" +  Math.round(d.Scenario1Val*100)/100+ "%<br>&nbsp;Double-hit scenario :" +  Math.round(d.Scenario2Val*100)/100+ "%<br/><br/><b>&nbsp;" + d_1.Country + "</b><br>&nbsp;Single-hit scenario :" +  Math.round(d_1.Scenario1Val *100)/100+ "%<br>&nbsp;Double-hit scenario :" +  Math.round(d_1.Scenario2Val*100)/100 + "%";
+                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;"+ d.Country + "</b><br>&nbsp;Single-hit scenario :" +  Math.round(d.Scenario1Val*10)/10+ "%<br>&nbsp;Double-hit scenario :" +  Math.round(d.Scenario2Val*10)/10+ "%<br/><br/><b>&nbsp;" + d_1.Country + "</b><br>&nbsp;Single-hit scenario :" +  Math.round(d_1.Scenario1Val *10)/10+ "%<br>&nbsp;Double-hit scenario :" +  Math.round(d_1.Scenario2Val*10)/10 + "%";
                                 
                                 if(event.pageX < width - 75){
                                     divMap.html(htmlText)
@@ -546,13 +542,13 @@
                                         .style("left", width-100  + "px")
                                         .style("top", event.pageY + "px");
                                 }
-                                // focus.select("text").html(function () { return d.TIME+"<br>"+ Math.round(d.Value*100)/100; });
+                                // focus.select("text").html(function () { return d.TIME+"<br>"+ Math.round(d.Value*10)/10; });
                             }else{  
                                 divMap.transition()
                                     .duration(100)
                                     .style("opacity", 1);
                                 
-                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;" + d.Country + "</b><br>Single-hit scenario :" +  Math.round(d.Scenario1Val*100)/100 + "%<br>Double-hit scenario :" + Math.round( d.Scenario2Val*100)/100 + "%";
+                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;" + d.Country + "</b><br>Single-hit scenario :" +  Math.round(d.Scenario1Val*10)/10 + "%<br>Double-hit scenario :" + Math.round( d.Scenario2Val*10)/10 + "%";
 
                                 if (event.pageX < width - 75) {
                                     divMap.html(htmlText)
