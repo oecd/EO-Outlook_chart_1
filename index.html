@@ -66,8 +66,8 @@
     </head>
 
 <body>
-    <h1>Work in progress</h1>
-    <h2>Drag the cursor to see the impact of the Covid crisis depending on the scenario</h2>
+   <!--<h1>Work in progress</h1>
+    <h2>Drag the cursor to see the impact of the Covid crisis depending on the scenario</h2>-->
     <div id="modedemploi">
         <div id="#intromodedemploi">Select countries and indicator:
         </div>
@@ -83,6 +83,13 @@
             </select>
         </div>
     </div>
+
+<div class="flex-container" id="Downloadbanner">
+    <a class="toData" id="countryNote1" href="" target="_blank">Country Note</a>
+    <a class="toData" id="countryNote2" href="" target="_blank">Country Note</a>
+    <a class="toData" id="snapshot" href="http://www.oecd.org/economy/surveys" target="_blank">Economic Snapshot</a>
+
+</div>
 <div id="chartSlider" class="img-comp-container">
     <div id="chartSlider1" class="img-comp-img">
         <div id="scenario1" alt=""></div>
@@ -91,20 +98,19 @@
         <div id="scenario2" alt=""></div>
     </div>
 </div>
-
     <script  type="text/javascript">
                     
         var startChart = "2018-Q1";
         var startForecast = "2020-Q2";
 
-        var allScenario1, allScenario2;
+        var allScenario1, allScenario2, countryNotes;
         var popupWidth;
 
         var divMap = d3.select("body").append("div")
             .attr("class", "tooltip")
             .style("opacity", 0);
 
-        var color = ["#E73741", "#0F8FD9", "#993484", "#DF521E", "#719E24"];
+        var color = ["#0F8FD9","#E73741",  "#993484", "#DF521E", "#719E24"];
 
         var margin = { top: 70, right: 50, bottom: 30, left: 80 };
 
@@ -135,12 +141,14 @@
 
         var urls = {
             scenario1: "data/EO107_INTERNET_1.tsv",
-            scenario2: "data/EO107_INTERNET_2.tsv"
+            scenario2: "data/EO107_INTERNET_2.tsv",
+            countryNotes: "data/countryNotes.tsv"
         };
 
         d3.queue()
             .defer(d3.tsv, urls.scenario1)
             .defer(d3.tsv, urls.scenario2)
+            .defer(d3.tsv, urls.countryNotes)
             .await(render);
 
 
@@ -217,9 +225,10 @@
 
         }
 
-        function render(err,scenario1Data,scenario2Data) {
+        function render(err,scenario1Data,scenario2Data, countryBut) {
             allScenario1=scenario1Data;
             allScenario2=scenario2Data;
+            countryNotes= countryBut;
 
             var countryList = d3.nest()
                 .key(function (d) { return d.Country; }).sortKeys(d3.ascending)
@@ -233,6 +242,7 @@
                 set_Ind_Dropdown(indicatorList);
 
             updateChart();
+            updateButton();
 
             
         }
@@ -246,7 +256,72 @@
             })
             return name;
         }
+        function updateButton(){
 
+            var selButCountries = $('#country_dropdown').select2("val");
+console.log(selButCountries)
+            if (typeof selButCountries[1] != "undefined") {
+                console.log("1")
+                document.getElementById("countryNote1").style.display = "block";
+                document.getElementById("countryNote2").style.display = "block";
+
+                var exist1=false, exist2=false;
+                var count1=0;count2=0;
+                 countryNotes.forEach(function (d) {
+                     count1++;
+                    if (d.ISO == selButCountries[0]) {
+                        document.getElementById("countryNote1").innerHTML = countryName(selCountries[0]) + " Note"; 
+                        document.getElementById("countryNote1").href = d.link_EN; 
+                        exist1=true;
+                    }
+                     if (count1 == countryNotes.length-1) {
+
+                         console.log("check")
+                         if (exist1 == false)
+                             document.getElementById("countryNote1").style.display = "none";
+
+                     }
+                })
+
+                countryNotes.forEach(function (d) {
+                    count2++
+                    if (d.ISO == selButCountries[1]) {
+                        document.getElementById("countryNote2").innerHTML = countryName(selCountries[1] ) + " Note";
+                        document.getElementById("countryNote2").href = d.link_EN;
+                        exist2 = true;
+                    }
+                    if (count2==countryNotes.length){
+                        if(exist2==false)
+                            document.getElementById("countryNote2").style.display = "none";
+
+                    }
+                })
+            }
+
+            else{
+                var exist1 = false;
+                var count1 = 0;
+                
+                document.getElementById("countryNote1").style.display = "block";
+                document.getElementById("countryNote2").style.display = "none";;
+
+                countryNotes.forEach(function (d) {
+                    count1++
+                    if (d.ISO == selButCountries[0]) {
+                        document.getElementById("countryNote1").innerHTML = countryName(selCountries[0]) + " Note";
+                        document.getElementById("countryNote1").href = d.link_EN;
+                        exist1 = true;
+                    }
+
+                    if (count1 == countryNotes.length) {
+                        if (exist1 == false)
+                            document.getElementById("countryNote1").style.display = "none";
+
+                    }
+
+                })
+            }
+        }
         function updateChart(){
 
             scenario1SVG.selectAll("*").remove()
@@ -693,7 +768,8 @@
     }
     initComparisons();
         $("#country_dropdown").change(function () {
-            updateChart()
+            updateChart();
+            updateButton();
         });
 
         $("#indicator_dropdown").change(function () {

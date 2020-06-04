@@ -1,6 +1,6 @@
 
 body{
-  background:#e6ebe9;
+  background:#ffffff;
 }
 
 
@@ -272,18 +272,21 @@ div.tooltip::after {
 }
 
 
-.flex-container {position: relative;
-  
+.flex-container {
+
+  background: #ffffff/**#006f81**/;
+  margin:5px 0px 5px 0px;
+  padding-left:0%;
   display: flex;
   flex-wrap: wrap;
-  
-  justify-content: center;
+
+  justify-content: left;
   align-items: center;
 }
 
 .flex-container > div {
-  align-content: space-between;
-  width: 40%;
+  align-content: start;
+  width: auto;
   margin: 0% 5%;
   text-align: left;
 }
@@ -713,21 +716,22 @@ width:175px;
 }
 .toData{
     display: inline-block;
-    padding: 7px 10px 7px 10px;
-    margin:5px;
+    padding: 10px 15px 10px 15px;
+      
+    margin:5px 1.2em 5px 1.2em;
     font-family: "Noto Sans Display",sans-serif;
-    font-size: 1rem;
+    font-size: 1.35rem;
     /*font-size: 0.75rem;*/
-    font-weight: 700;
+    font-weight: 600;
     line-height: 1em;
     text-align: center;
     align-items: center;
     text-decoration: none;
     text-transform: uppercase;
 
-    color: #ffffff /**#0b1e2d**/;
-    background: none;/* #633582;*/
-    border: 1px solid  #ffffff/*#0b1e2d*/;
+    color: #0b1e2d /**#0b1e2d**/;
+    background: #ffffff;/* #633582;*/
+    border: 1px solid  #0b1e2d/*#0b1e2d*/;
     border-radius: 25px;
     -webkit-appearance: none !important;
     -moz-appearance: none !important;
@@ -739,10 +743,13 @@ width:175px;
 
 .toData:hover{
 text-decoration: underline;
-  background: #ffffff;
-  color:#0b1e2d
+  background: #0b1e2d;
+  color:#ffffff
 }
 
+#countryNote2{
+  display:none;
+}
 
 #copyright{
   display:block;
