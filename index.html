@@ -197,7 +197,7 @@
                 option.innerHTML = d.key;
                 x.appendChild(option);
                 count++;
-                if (count == data.length-1){
+                if (count == data.length){
                     $('#country_dropdown').select2().val('OTO').trigger('change');;
                 }
                     
@@ -216,7 +216,7 @@
                 option.innerHTML = d.key;
                 x.appendChild(option);
                 count++;
-                if(count==data.length-1){
+                if(count==data.length){
                     
                     $('#indicator_dropdown').select2().val('GDPV_ANNPCT').trigger('change');;
                 }
@@ -259,9 +259,7 @@
         function updateButton(){
 
             var selButCountries = $('#country_dropdown').select2("val");
-console.log(selButCountries)
             if (typeof selButCountries[1] != "undefined") {
-                console.log("1")
                 document.getElementById("countryNote1").style.display = "block";
                 document.getElementById("countryNote2").style.display = "block";
 
@@ -274,9 +272,8 @@ console.log(selButCountries)
                         document.getElementById("countryNote1").href = d.link_EN; 
                         exist1=true;
                     }
-                     if (count1 == countryNotes.length-1) {
+                     if (count1 == countryNotes.length) {
 
-                         console.log("check")
                          if (exist1 == false)
                              document.getElementById("countryNote1").style.display = "none";
 
