@@ -848,7 +848,7 @@ text-decoration: underline;
 
 #indicator_dropdown{
   margin: 5px 0px 5px 0px;
-  max-width: 415px;
+  width: 330px;
   font-family: 'Noto Sans', sans-serif;
   font-weight: 300;
   font-size: 1.5rem;
@@ -1121,11 +1121,16 @@ div.tooltip {
   #indicator_dropdown{
 
   margin: 5px 0px 5px 0px;
-  max-width: 180px;
+  max-width: 300px;
   }
 
   .on-line-label{
-    font-size: 1.15rem;
+    font-size: 0.9rem;
+
+    font-weight: 300;
+  }
+  .tick{
+    font-size:0.8rem;
   }
 
 }
