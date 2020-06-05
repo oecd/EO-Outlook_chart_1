@@ -84,20 +84,21 @@
         </div>
     </div>
 
-<div class="flex-container" id="Downloadbanner">
-    <a class="toData" id="countryNote1" href="" target="_blank">Country Note</a>
-    <a class="toData" id="countryNote2" href="" target="_blank">Country Note</a>
-    <a class="toData" id="snapshot" href="http://www.oecd.org/economy/surveys" target="_blank">Economic Snapshot</a>
 
-</div>
-<div id="chartSlider" class="img-comp-container">
-    <div id="chartSlider1" class="img-comp-img">
-        <div id="scenario1" alt=""></div>
+    <div id="chartSlider" class="img-comp-container">
+        <div id="chartSlider1" class="img-comp-img">
+            <div id="scenario1" alt=""></div>
+        </div>
+        <div id="chartSlider2" class="img-comp-img img-comp-overlay">
+            <div id="scenario2" alt=""></div>
+        </div>
     </div>
-    <div id="chartSlider2" class="img-comp-img img-comp-overlay">
-        <div id="scenario2" alt=""></div>
+    <div class="flex-container" id="Downloadbanner">
+        <a class="toData" id="countryNote1" href="" target="_blank">Country Note</a>
+        <a class="toData" id="countryNote2" href="" target="_blank">Country Note</a>
+        <a class="toData" id="snapshot" href="http://www.oecd.org/economy/surveys" target="_blank">Economic Snapshot</a>
     </div>
-</div>
+
     <script  type="text/javascript">
                     
         var startChart = "2018-Q1";
@@ -114,15 +115,15 @@
 
         var margin = { top: 70, right: 50, bottom: 30, left: 40 };
 
-        var mapRatio = 8 / 20;
+      //  var mapRatio = 8 / 20;
 
         var width = document.getElementById("chartSlider").offsetWidth - margin.left - margin.right;
 
         var height;
         if (width > 650)
-            height = width * mapRatio;
+            height = 450;//width * mapRatio;
         else
-            height = width;
+            height = 450; //width;
 
 
         $(document).ready(function () {
@@ -241,8 +242,10 @@
                 set_Cou_Dropdown(countryList);
                 set_Ind_Dropdown(indicatorList);
 
-            updateChart();
-            updateButton();
+                setTimeout(updateChart(), 1000)
+                setTimeout(updateButton(), 1000)
+            ;
+            ;
 
             
         }
