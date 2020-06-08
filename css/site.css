@@ -976,7 +976,10 @@ tr:nth-child(even){background-color: #f2f2f2}
   padding-bottom: 100%;
 }
 
-
+#note{ 
+  
+    margin-left: 1.5em;
+}
 
 #source{ 
   

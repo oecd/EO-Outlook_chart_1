@@ -73,7 +73,7 @@
         <div id="#intromodedemploi">Select countries and indicator:
         </div>
         <div id="selCountry">
-            <select id="country_dropdown" data-maximum-selection-length="2" 2 multiple="multiple">
+            <select id="country_dropdown" data-maximum-selection-length="2"  multiple="multiple">
                <!-- <option value="OTO" selected="selected">OECD - Total</option>-->
             </select>
         </div>
@@ -100,6 +100,7 @@
         <div id="source" class="source">Source: <a class="source" href="https://data.oecd.org/gdp/real-gdp-forecast.htm" target="_blank">OECD (2020), Real GDP forecast</a> and <a class="source" href=https://data.oecd.org/unemp/unemployment-rate-forecast.htm>Unemployment
             rate forecast (indicators)</a>. © OECD <a class="source" href="http://www.oecd.org/termsandconditions" target="_blank">Terms & Conditions</a>
         </div>
+        <div  id="note" class="source">Divergences for 2019-Q4 are due to data revisions and changes in the base years in country national accounts.</div>
     <div class="flex-container" id="Downloadbanner">
         <a class="toData" id="countryNote1" href="" target="_blank">Country Note</a>
         <a class="toData" id="countryNote2" href="" target="_blank">Country Note</a>
@@ -120,7 +121,7 @@
     <script  type="text/javascript">
                     
         var startChart = "2018-Q1";
-        var startForecast = "2020-Q2";
+        var startForecast = "2020-Q1";
 
         var allScenario1, allScenario2, countryNotes,pastScenario,countryList,indicatorList
         var popupWidth;
@@ -144,18 +145,12 @@
             height = 450; //width;
 
 
-        $(document).ready(function () {
-            $('#country_dropdown').select2({ width: '180px' });               
-        });
+            $('#country_dropdown').select2({ width: '180px' })
 
         if (width > 650)
-            $(document).ready(function () {
                 $('#indicator_dropdown').select2({ width: '330px' });
-            });
         else
-            $(document).ready(function () {
                 $('#indicator_dropdown').select2({ width: '180px' });
-            });
         
 
         var urls = {
@@ -223,11 +218,15 @@
                 if (d.key == "Euro area (17 countries)")
                     countryName = "Euro area"
                 
+
                 option.innerHTML = countryName;
+
+                if (d.key == "OECD - Total")
+                    option.selected = "selected";
                 x.appendChild(option);
                 count++;
                 if (count == data.length){
-                    $('#country_dropdown').select2().val('OTO').trigger('change');;
+                   // $('#country_dropdown').select2().val('OTO').trigger('change');;
                     set_Ind_Dropdown(indicatorList);
                 }
                     
@@ -246,21 +245,29 @@
 
                 var indicName = d.key;
                 if (d.key == "Gross domestic product, volume, growth")
-                    indicName = "GDP growth rate"
+                    indicName = "GDP growth rate, change over previous period"
+
+                if (d.key == "Unemployment rate")
+                    indicName = "Unemployment rate, % of labour force"
+
                 option.innerHTML = indicName;
+                if (d.key == "Gross domestic product, volume, growth")
+                    option.selected = "selected";
                 x.appendChild(option);
                 count++;
                 if(count==data.length){
                     
-                    $('#indicator_dropdown').select2().val('GDPV_ANNPCT').trigger('change');;
-
-                    updateChart();
-                    updateButton();
+                    launchViz();
+                    
                 }
 
             })
 
 
+        }
+        function launchViz(){
+            updateChart();
+            updateButton();
         }
 
         function render(err,scenario1Data,scenario2Data,pastForecasts,countryBut) {
@@ -402,8 +409,15 @@
             if(data1.length >0){
 
                 x.domain(d3.extent(data1, function (d) { return dateParser(d.TIME); }))
-
-                y.domain([d3.min(data1, function (d) { return d3.min([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val),parseFloat(d.ScenarioPastVal)]); }), d3.max(data1, function (d) { return d3.max([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val), parseFloat(d.ScenarioPastVal)]); })])
+                var min,max;
+                if(d3.min(data1, function (d) { return d3.min([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val), parseFloat(d.ScenarioPastVal)]); })<0)
+                    min=1.25* d3.min(data1, function (d) { return d3.min([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val), parseFloat(d.ScenarioPastVal)]); })
+                else
+                    min = 0.75 * d3.min(data1, function (d) { return d3.min([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val), parseFloat(d.ScenarioPastVal)]); })
+                
+                max= 1.2* d3.max(data1, function (d) { return d3.max([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val), parseFloat(d.ScenarioPastVal)]); })
+                
+                y.domain([min,max])
 
                 var scenarioChart=[scenario1SVG, scenario2SVG]
 
@@ -428,13 +442,14 @@
 
                                 // return appropriate quarter for that month
                                 if (mon <= 2) {
-                                    return "Q1 -" + yr;
+                                    
+                                    return yr + "-Q1";
                                 } else if (mon <= 5) {
-                                    return "Q2 - " + yr;
+                                    return yr + "-Q2";
                                 } else if (mon <= 8) {
-                                    return "Q3 - " + yr;
+                                    return yr + "-Q3";
                                 } else {
-                                    return "Q4 - " + yr;
+                                    return yr + "-Q4"
                                 }
                             
                             //just showing years
@@ -559,8 +574,8 @@
                         var coord1, coord2,date1,date2;
                         
                         if(i==0){
-                            coord1=-20;
-                            coord2=20;
+                            coord1=20;
+                            coord2=-20;
                             date0= "2020-Q1"
                             date2= "2020-Q4"
                             date1= "2021-Q1"
@@ -568,7 +583,7 @@
                         }else{
 
                             coord1 =-20;
-                            coord2 =-20;
+                            coord2 =30;
                             date0 = "2019-Q4"
                             date2 = "2020-Q2"
                             date1 = "2021-Q2"
@@ -599,7 +614,7 @@
                                     x: x(dateParser(date1)),
                                     y: y(parseFloat(data1.filter(function (d) { return d.TIME == date1 && d.LOCATION == selCountries[i]; })[0].Scenario1Val)),
                                     dy: coord2,
-                                    dx: coord2
+                                    dx: coord1
                                 }
                             ]
                         }
@@ -613,7 +628,7 @@
                                     x: x(dateParser(date2)),
                                     y: y(parseFloat(data1.filter(function (d) { return d.TIME == date2 && d.LOCATION == selCountries[i]; })[0].Scenario2Val)),
                                     dy: coord1,
-                                    dx: coord1
+                                    dx: coord2
                                 }
                             ]
                         }
