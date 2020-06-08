@@ -122,7 +122,7 @@
         var startChart = "2018-Q1";
         var startForecast = "2020-Q2";
 
-        var allScenario1, allScenario2, countryNotes,pastScenario;
+        var allScenario1, allScenario2, countryNotes,pastScenario,countryList,indicatorList
         var popupWidth;
 
         var divMap = d3.select("body").append("div")
@@ -228,6 +228,7 @@
                 count++;
                 if (count == data.length){
                     $('#country_dropdown').select2().val('OTO').trigger('change');;
+                    set_Ind_Dropdown(indicatorList);
                 }
                     
             })
@@ -248,9 +249,13 @@
                 if(count==data.length){
                     
                     $('#indicator_dropdown').select2().val('GDPV_ANNPCT').trigger('change');;
+
+                    setTimeout(updateChart(), 1000)
+                    setTimeout(updateButton(), 1000)
                 }
 
             })
+
 
         }
 
@@ -261,19 +266,16 @@
 
             countryNotes= countryBut;
 
-            var countryList = d3.nest()
+            countryList = d3.nest()
                 .key(function (d) { return d.Country; }).sortKeys(d3.ascending)
                 .entries(scenario1Data);
             
-            var indicatorList = d3.nest()
+            indicatorList = d3.nest()
                 .key(function (d) { return d.Variable; }).sortKeys(d3.ascending)
                 .entries(scenario1Data);
 
                 set_Cou_Dropdown(countryList);
-                set_Ind_Dropdown(indicatorList);
 
-                setTimeout(updateChart(), 1000)
-                setTimeout(updateButton(), 1000)
             ;
             ;
 
