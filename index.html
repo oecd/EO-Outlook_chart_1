@@ -250,8 +250,10 @@
                     
                     $('#indicator_dropdown').select2().val('GDPV_ANNPCT').trigger('change');;
 
-                    setTimeout(updateChart(), 1000)
-                    setTimeout(updateButton(), 1000)
+                   // setTimeout(updateChart(), 1000)
+                    //setTimeout(updateButton(), 1000)
+                    updateChart();
+                    updateButton();
                 }
 
             })
