@@ -243,7 +243,11 @@
                 var x = document.getElementById("indicator_dropdown");
                 var option = document.createElement("option");
                 option.value = d.values[0].VARIABLE;
-                option.innerHTML = d.key;
+
+                var indicName = d.key;
+                if (d.key == "Gross domestic product, volume, growth")
+                    indicName = "GDP growth rate"
+                option.innerHTML = indicName;
                 x.appendChild(option);
                 count++;
                 if(count==data.length){
