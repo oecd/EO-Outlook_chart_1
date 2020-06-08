@@ -250,8 +250,6 @@
                     
                     $('#indicator_dropdown').select2().val('GDPV_ANNPCT').trigger('change');;
 
-                   // setTimeout(updateChart(), 1000)
-                    //setTimeout(updateButton(), 1000)
                     updateChart();
                     updateButton();
                 }
@@ -557,19 +555,19 @@
                         var coord1, coord2,date1,date2;
                         
                         if(i==0){
-                            coord1=20;
-                            coord2=-20;
+                            coord1=-20;
+                            coord2=20;
                             date0= "2020-Q1"
-                            date1= "2020-Q4"
-                            date2= "2021-Q1"
+                            date2= "2020-Q4"
+                            date1= "2021-Q1"
 
                         }else{
 
                             coord1 =-20;
-                            coord2 =20;
+                            coord2 =-20;
                             date0 = "2019-Q4"
-                            date1 = "2020-Q3"
-                            date2 = "2021-Q2"
+                            date2 = "2020-Q2"
+                            date1 = "2021-Q2"
                         }
                         // Features of the annotation
 
@@ -580,36 +578,36 @@
                                         label: countryName(selCountries[i]) + ": November 2019 projections"
                                     },
                                     x: x(dateParser("2020-Q1")),
-                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME == "2020-Q1"; })[i].ScenarioPastVal)),
+                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME ==date0; })[i].ScenarioPastVal)),
                                     dy: coord2,
                                     dx: coord2
                                 }
                             ]
                         }
-                        console.log(data1.filter(function (d) { return d.TIME == "2020-Q4" && d.LOCATION == selCountries[i]; })[0])
-                        if(typeof data1.filter(function (d) { return d.TIME == "2020-Q4" && d.LOCATION == selCountries[i]; })[0] !== "undefined"){
+
+                        if(typeof data1.filter(function (d) { return d.TIME == date1 && d.LOCATION == selCountries[i]; })[0] !== "undefined"){
                             annotationSingle = [
                                 {
                                     note: {
                                         label: countryName(selCountries[i]) + ": Single-hit scenario"
 
                                     },
-                                    x: x(dateParser("2020-Q4")),
-                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME == "2020-Q4" && d.LOCATION == selCountries[i]; })[0].Scenario1Val)),
+                                    x: x(dateParser(date1)),
+                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME == date1 && d.LOCATION == selCountries[i]; })[0].Scenario1Val)),
                                     dy: coord2,
                                     dx: coord2
                                 }
                             ]
                         }
-                        if (typeof data1.filter(function (d) { return d.TIME == "2020-Q4" && d.LOCATION == selCountries[i]; })[0] !== "undefined") {
+                        if (typeof data1.filter(function (d) { return d.TIME == date2 && d.LOCATION == selCountries[i]; })[0] !== "undefined") {
 
                             annotationDouble = [
                                 {
                                     note: {
                                         label: countryName(selCountries[i]) + ": Double-hit scenario"
                                     },
-                                    x: x(dateParser("2021-Q1")),
-                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME == "2021-Q1" && d.LOCATION == selCountries[i]; })[0].Scenario2Val)),
+                                    x: x(dateParser(date2)),
+                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME == date2 && d.LOCATION == selCountries[i]; })[0].Scenario2Val)),
                                     dy: coord1,
                                     dx: coord1
                                 }
@@ -635,7 +633,7 @@
                         
                         scenarioChart[k]
                             .append("g")
-                            .attr("opacity", function () { if (k == 0) return 1; else return 0.25; })
+                            .attr("opacity", function () { if (k == 0) return 1; else return 0.05; })
                             
                             .call(makeAnnotationSingle)
 
@@ -645,7 +643,7 @@
                         
                         scenarioChart[k]
                             .append("g")
-                            .attr("opacity", function () { if (k == 0) return 0.25; else return 1; })                
+                            .attr("opacity", function () { if (k == 0) return 0.05; else return 1; })                
                             .call(makeAnnotationDouble)
 
 
@@ -754,7 +752,7 @@
                                     .duration(100)
                                     .style("opacity", 1);
 
-                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;"+ d.Country + "</b><br>&nbsp;Single-hit scenario :" +  Math.round(d.Scenario1Val*10)/10+ "%<br>&nbsp;Double-hit scenario :" +  Math.round(d.Scenario2Val*10)/10+ "%<br/><br/><b>&nbsp;" + d_1.Country + "</b><br>&nbsp;Single-hit scenario :" +  Math.round(d_1.Scenario1Val *10)/10+ "%<br>&nbsp;Double-hit scenario :" +  Math.round(d_1.Scenario2Val*10)/10 + "%";
+                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;"+ countryName(d.LOCATION) + "</b><br>&nbsp;Single-hit scenario: " +  Math.round(d.Scenario1Val*10)/10+ "%<br>&nbsp;Double-hit scenario: " +  Math.round(d.Scenario2Val*10)/10+ "%<br/><br/><b>&nbsp;" + d_1.Country + "</b><br>&nbsp;Single-hit scenario: " +  Math.round(d_1.Scenario1Val *10)/10+ "%<br>&nbsp;Double-hit scenario: " +  Math.round(d_1.Scenario2Val*10)/10 + "%";
                                 
                                 if(event.pageX < width - 75){
                                     divMap.html(htmlText)
@@ -771,7 +769,7 @@
                                     .duration(100)
                                     .style("opacity", 1);
                                 
-                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;" + d.Country + "</b><br>Single-hit scenario :" +  Math.round(d.Scenario1Val*10)/10 + "%<br>Double-hit scenario :" + Math.round( d.Scenario2Val*10)/10 + "%";
+                                var htmlText = "<b>" + d.TIME + "</b><br/><b>&nbsp;" + countryName(d.LOCATION) + "</b><br>Single-hit scenario: " +  Math.round(d.Scenario1Val*10)/10 + "%<br>Double-hit scenario: " + Math.round( d.Scenario2Val*10)/10 + "%";
 
                                 if (event.pageX < width - 75) {
                                     divMap.html(htmlText)
