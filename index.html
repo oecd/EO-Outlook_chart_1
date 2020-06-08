@@ -19,7 +19,8 @@
         <script src="libs/d3-scale-chromatic.v1.min.js"></script>
         <script src="libs/topojson.v1.min.js"></script>
         <script src="libs/d3-queue.v3.min.js"></script>
-        <script src="https://unpkg.com/roughjs@latest/bundled/rough.js"></script>
+        <script src="libs/d3-annotation.js"></script>
+
         <link rel="icon" href="img/favicon.ico">
         <script>
 
@@ -82,6 +83,8 @@
                <!--- <option value="GDP_ANNPCT" selected="selected">Gross domestic product, nominal value, growth</option>-->
             </select>
         </div>
+
+        <img id="Share" src="img/share.svg" alt="share">
     </div>
 
 
@@ -93,18 +96,33 @@
             <div id="scenario2" alt=""></div>
         </div>
     </div>
+   
+        <div id="source" class="source">Source: <a class="source" href="https://data.oecd.org/gdp/real-gdp-forecast.htm" target="_blank">OECD (2020), Real GDP forecast</a> and <a class="source" href=https://data.oecd.org/unemp/unemployment-rate-forecast.htm>Unemployment
+            rate forecast (indicators)</a>. © OECD <a class="source" href="http://www.oecd.org/termsandconditions" target="_blank">Terms & Conditions</a>
+        </div>
     <div class="flex-container" id="Downloadbanner">
         <a class="toData" id="countryNote1" href="" target="_blank">Country Note</a>
         <a class="toData" id="countryNote2" href="" target="_blank">Country Note</a>
         <a class="toData" id="snapshot" href="http://www.oecd.org/economy/surveys" target="_blank">Economic Snapshot</a>
     </div>
+    <div id="shareLink">
+            <div id="shutterholdertracker">
+                <img id="shuttershare" src="img/cross.svg">
+                <div id="trackersText">
+                    <b>Copy link:</b><Br />
+                    <span>https://gitvfd.github.io/EO-Outlook_chart_1/</span><Br />
+                    <b>Embed link:</b><Br />
+                    <textarea readonly><iframe src="https://gitvfd.github.io/EO-Outlook_chart_1/" width="100%" height="500px" style="border:none;"></iframe></textarea>
 
+                </div>
+            </div>
+     </div>
     <script  type="text/javascript">
                     
         var startChart = "2018-Q1";
         var startForecast = "2020-Q2";
 
-        var allScenario1, allScenario2, countryNotes;
+        var allScenario1, allScenario2, countryNotes,pastScenario;
         var popupWidth;
 
         var divMap = d3.select("body").append("div")
@@ -143,12 +161,14 @@
         var urls = {
             scenario1: "data/EO107_INTERNET_1.tsv",
             scenario2: "data/EO107_INTERNET_2.tsv",
+            pastForecasts: "data/EO106_INTERNET.tsv",
             countryNotes: "data/countryNotes.tsv"
         };
 
         d3.queue()
             .defer(d3.tsv, urls.scenario1)
             .defer(d3.tsv, urls.scenario2)
+            .defer(d3.tsv, urls.pastForecasts)
             .defer(d3.tsv, urls.countryNotes)
             .await(render);
 
@@ -195,7 +215,15 @@
                 var x = document.getElementById("country_dropdown");
                 var option = document.createElement("option");
                 option.value = d.values[0].LOCATION;
-                option.innerHTML = d.key;
+                var countryName = d.key;
+                if (d.key == "China (People's Republic of)")
+                    countryName = "China"
+                if (d.key == "OECD - Total")
+                    countryName = "OECD"
+                if (d.key == "Euro area (17 countries)")
+                    countryName = "Euro area"
+                
+                option.innerHTML = countryName;
                 x.appendChild(option);
                 count++;
                 if (count == data.length){
@@ -226,9 +254,11 @@
 
         }
 
-        function render(err,scenario1Data,scenario2Data, countryBut) {
+        function render(err,scenario1Data,scenario2Data,pastForecasts,countryBut) {
             allScenario1=scenario1Data;
             allScenario2=scenario2Data;
+            pastScenario=pastForecasts;
+
             countryNotes= countryBut;
 
             var countryList = d3.nest()
@@ -251,9 +281,18 @@
         }
         function countryName(ISOcode){
             var name;
+
             allScenario1.forEach(function (d) {
                 if(d.LOCATION== ISOcode){
-                    name= d.Country;
+                     var countryName = d.Country;
+                    if (d.Country == "China (People's Republic of)")
+                        countryName = "China"
+                    if (d.Country == "OECD - Total")
+                        countryName = "OECD"
+                    if (d.Country == "Euro area (17 countries)")
+                        countryName = "Euro area"
+                    
+                    name= countryName;
                 }
                 
             })
@@ -326,6 +365,7 @@
 
             scenario1SVG.selectAll("*").remove()
 
+
             scenario2SVG.selectAll("*").remove()
 
 
@@ -335,6 +375,8 @@
             
             var data1= allScenario1.filter(function(d){ return (d.LOCATION== selCountries[0] && d.VARIABLE== selindic && dateParser(d.TIME) >= dateParser(startChart)) || (d.LOCATION == selCountries[1] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart));})
             var data2 = allScenario2.filter(function (d) { return (d.LOCATION == selCountries[0] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart)) || (d.LOCATION == selCountries[1] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart)); })
+            var dataPast = pastScenario.filter(function (d) { return (d.LOCATION == selCountries[0] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart)) || (d.LOCATION == selCountries[1] && d.VARIABLE == selindic && dateParser(d.TIME) >= dateParser(startChart)); })
+            
             var data=[];
             data1.forEach(function(d){
                  data2.forEach(function (k) {
@@ -342,21 +384,20 @@
                         d.Scenario1Val=d.Value;
                         d.Scenario2Val = k.Value;
                      }
-                     
-
-                    })
+                 })
+                dataPast.forEach(function (k) {
+                    if (k.TIME == d.TIME && k.LOCATION == d.LOCATION) {
+                        d.ScenarioPastVal = k.Value;
+                    }
+                })
+                
              })
 
-          /* data2.forEach(function (d) {
-
-                data.push({ "TIME": d.TIME, "Unit": d.Unit, "Value": d.Value, "Variable": d.Variable, "Scenario": "Scenario2" })
-            })*/
-            
             if(data1.length >0){
 
                 x.domain(d3.extent(data1, function (d) { return dateParser(d.TIME); }))
 
-                y.domain([d3.min(data1, function (d) { return d3.min([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val)]); }), d3.max(data1, function (d) { return d3.max([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val)]); })])
+                y.domain([d3.min(data1, function (d) { return d3.min([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val),parseFloat(d.ScenarioPastVal)]); }), d3.max(data1, function (d) { return d3.max([parseFloat(d.Scenario1Val), parseFloat(d.Scenario2Val), parseFloat(d.ScenarioPastVal)]); })])
 
                 var scenarioChart=[scenario1SVG, scenario2SVG]
 
@@ -487,24 +528,122 @@
                                     .y1(function (d) { return y(parseFloat(d.Scenario2Val)); })
                                     (data1.filter(function (d) { return d.LOCATION == selCountries[i]; }))
                             })
+                        
+                        // Draw past forecast dashedline
+                        if(selCountries.length==1){
+                            
+                            scenarioChart[k]
+                                .append("path")
+                                .attr("fill", "none"/*"#8DCD79"*/)
+                                .attr("stroke", function (d) { return "#993484" })
+                                .style("stroke-dasharray", ("5, 5"))
+                                .attr("stroke-width", function () {  return 1; })
+                                .attr("class", "linePast")
+                                .attr("d", function (d) {
 
-                        scenarioChart[k].append("text")
-                            .append("textPath") //append a textPath to the text element
-                            .attr("xlink:href", function (d) { return "#singleHit" + i; }) //place the ID of the path here
-                            .style("text-anchor", "middle") //place the text halfway on the arc
-                            .attr("startOffset", function () { if (i == 0) return "85%"; else return "75%"; } )
-                            .attr("class","on-line-label")
-                            .attr("opacity", function () { if (k == 0) return 1; else return 0.1; })
-                            .text(function (d) { return countryName(selCountries[i]) + ": Single-hit scenario"; });
+                                    return d3.line()//area
+                                        .x(function (d) { return x(dateParser(d.TIME)); })
+                                        // .y0(y(0))
+                                        .y(function (d) { return y(parseFloat(d.ScenarioPastVal)); })
+                                        (data1.filter(function (d) { return (d.LOCATION == selCountries[i] && dateParser(d.TIME) >= dateParser("2019-Q4")); }))
+                                })
 
-                        scenarioChart[k].append("text")
-                            .append("textPath") //append a textPath to the text element
-                            .attr("xlink:href", function (d) { return "#doubleHit" + i; })  //place the ID of the path here
-                            .style("text-anchor", "middle") //place the text halfway on the arc
-                            .attr("startOffset", function () { if (i == 0) return "85%"; else return "75%"; } )  
-                            .attr("class", "on-line-label")
-                            .attr("opacity", function () { if (k == 0) return 0.1; else return 1; })                     
-                            .text(function (d) { return countryName(selCountries[i]) + ": Double-hit scenario"; });
+                        }
+
+                        var coord1, coord2,date1,date2;
+                        
+                        if(i==0){
+                            coord1=20;
+                            coord2=-20;
+                            date0= "2020-Q1"
+                            date1= "2020-Q4"
+                            date2= "2021-Q1"
+
+                        }else{
+
+                            coord1 =-20;
+                            coord2 =20;
+                            date0 = "2019-Q4"
+                            date1 = "2020-Q3"
+                            date2 = "2021-Q2"
+                        }
+                        // Features of the annotation
+
+                        if (selCountries.length == 1) {
+                            annotation2019 = [
+                                {
+                                    note: {
+                                        label: countryName(selCountries[i]) + ": November 2019 projections"
+                                    },
+                                    x: x(dateParser("2020-Q1")),
+                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME == "2020-Q1"; })[i].ScenarioPastVal)),
+                                    dy: coord2,
+                                    dx: coord2
+                                }
+                            ]
+                        }
+                        console.log(data1.filter(function (d) { return d.TIME == "2020-Q4" && d.LOCATION == selCountries[i]; })[0])
+                        if(typeof data1.filter(function (d) { return d.TIME == "2020-Q4" && d.LOCATION == selCountries[i]; })[0] !== "undefined"){
+                            annotationSingle = [
+                                {
+                                    note: {
+                                        label: countryName(selCountries[i]) + ": Single-hit scenario"
+
+                                    },
+                                    x: x(dateParser("2020-Q4")),
+                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME == "2020-Q4" && d.LOCATION == selCountries[i]; })[0].Scenario1Val)),
+                                    dy: coord2,
+                                    dx: coord2
+                                }
+                            ]
+                        }
+                        if (typeof data1.filter(function (d) { return d.TIME == "2020-Q4" && d.LOCATION == selCountries[i]; })[0] !== "undefined") {
+
+                            annotationDouble = [
+                                {
+                                    note: {
+                                        label: countryName(selCountries[i]) + ": Double-hit scenario"
+                                    },
+                                    x: x(dateParser("2021-Q1")),
+                                    y: y(parseFloat(data1.filter(function (d) { return d.TIME == "2021-Q1" && d.LOCATION == selCountries[i]; })[0].Scenario2Val)),
+                                    dy: coord1,
+                                    dx: coord1
+                                }
+                            ]
+                        }
+
+
+
+                        // Add annotation to the chart
+
+                        if (selCountries.length == 1) {
+                            const makeAnnotation2019 = d3.annotation()
+                                .annotations(annotation2019)
+                            
+                            scenarioChart[k]
+                                .append("g")
+                                .call(makeAnnotation2019)
+                        }
+
+                        // Add annotation to the chart
+                        const makeAnnotationSingle = d3.annotation()
+                            .annotations(annotationSingle)
+                        
+                        scenarioChart[k]
+                            .append("g")
+                            .attr("opacity", function () { if (k == 0) return 1; else return 0.25; })
+                            
+                            .call(makeAnnotationSingle)
+
+                        // Add annotation to the chart
+                        const makeAnnotationDouble = d3.annotation()
+                            .annotations(annotationDouble)
+                        
+                        scenarioChart[k]
+                            .append("g")
+                            .attr("opacity", function () { if (k == 0) return 0.25; else return 1; })                
+                            .call(makeAnnotationDouble)
+
 
 
                        var focus = scenario1SVG.append("g")
@@ -780,6 +919,22 @@
         $("#indicator_dropdown").change(function () {
             updateChart()
         });
+
+
+  
+    d3.select("#Share").on("click", function(){
+        document.getElementById("shareLink").style.display = "inline-block";
+    })
+    d3.select("#shuttershare")
+        .on("mouseover", function () {
+            d3.select(this).style("opacity", 0.5);
+        })
+        .on("mouseout", function () {
+            d3.select(this).style("opacity", 1);
+        })
+        .on("click", function () {
+            document.getElementById("shareLink").style.display = 'none';
+        })
 
     </script>
     <!-- Google Tag Manager (noscript) -->
