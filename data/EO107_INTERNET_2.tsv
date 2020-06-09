@@ -47,38 +47,38 @@
 "CZE"	"Czech Republic"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			4.99506682433979		
 "CZE"	"Czech Republic"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			4.95718847579063		
 "CZE"	"Czech Republic"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			4.91929502519112		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.94275285412846		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.695176448349809		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.71317843167393		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.28010163982161		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.966516979676679		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.17755999058477		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.65179553896179		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-2.72232675924009		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-17.2973055718083		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-43.0303101938288		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	44.3262391961982		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-18.7391646602618		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	8.10918313662583		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.88990586983206		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.60239987362994		
-"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.92931427147951		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			2.81110553127687		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			2.75298909176865		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			2.48982531441805		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			2.8786058279449		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			2.93647634881476		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			3.6261745698271		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			3.75419815286661		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			3.7859426876135		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			3.97760415636328		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			10.0089211435508		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			9.29042949599429		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			9.47148652294841		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			8.86101512338746		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			8.33600902598356		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			7.81346186338265		
-"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			7.29336591112707		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.94275288069845		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.695176464513495		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.71317844055819		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.28010159718394		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.966517004917356		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.17755999923825		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.65179555560887		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-2.72232677517069		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-6.24015580346039		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-44.9075554663259		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	33.2011194101252		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-18.2442833178915		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	18.6528898445566		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	6.845310060436		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	5.85058340654764		
+"GRC"	"Greece"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.61301742767714		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			2.80021978592401		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			2.71458066818277		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			2.57481665301321		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			2.84209796449941		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			2.93137541154052		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			3.58370168782054		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			3.84549810673772		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			3.74205784680713		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			3.60279885837642		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			9.65765795301478		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			8.93636180892698		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			9.11812555781139		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			8.50527129836844		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			7.97821593875805		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			7.45362911193852		
+"ISL"	"Iceland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			6.93150306330123		
 "ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			10.9136054289224		
 "ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			10.7670008055885		
 "ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			10.2941992414076		
@@ -87,30 +87,30 @@
 "ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			9.93918373298366		
 "ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			9.79687977455607		
 "ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			9.72697482406381		
-"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			9.90752087441568		
-"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			11.2145153189589		
-"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			12.9466983617606		
-"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			14.6194599624954		
-"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			14.3802030448563		
-"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			13.6261455856837		
-"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			12.7187664247529		
-"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			11.8018550165087		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			3.24643738761111		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			3.31551294815215		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			3.28579986531494		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			3.3545076678406		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			3.49994943364639		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			3.5066662960638		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			3.53860366947625		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			3.47532788279816		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			4.66132544846841		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			6.10378699041948		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			7.03274784312203		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			7.1657479418277		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			6.67877777990763		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			5.98997331976001		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			5.40136379886428		
-"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			5.12961435415083		
+"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			9.7269748240638		
+"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			9.72697482406381		
+"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			11.087874701088		
+"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			12.4282584995641		
+"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			12.2531150165632		
+"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			11.9911840166126		
+"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			11.9911840166126		
+"ITA"	"Italy"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			11.5554968087741		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			3.2445521653455		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			3.31569568200399		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			3.28635740842379		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			3.35561775375365		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			3.49560181336058		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			3.5065234393341		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			3.54002724809137		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			3.47833255583196		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			3.47742379762228		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			7.19272981129999		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			7.19397028943588		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			7.47610632662378		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			6.76199021757086		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			6.1716773307103		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			5.69132063836405		
+"MEX"	"Mexico"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			5.26825482866607		
 "NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	1.49158207458386		
 "NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	1.03606327232638		
 "NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	2.47748313071497		
@@ -121,12 +121,12 @@
 "NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	6.13769937893002		
 "NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-6.04702375440644		
 "NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-37.8900093449536		
-"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	20.3930235751883		
-"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-14.2868454107907		
-"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	12.0546797638652		
-"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.32214584078884		
-"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	4.04901714206596		
-"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	4.05464147293717		
+"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	20.392791087695		
+"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-14.2869862819807		
+"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	12.0546737433416		
+"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.32215349596998		
+"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	4.04901932314797		
+"NOR"	"Norway"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	4.05464374804953		
 "SVK"	"Slovak Republic"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			7.07502474938682		
 "SVK"	"Slovak Republic"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			6.76636198297411		
 "SVK"	"Slovak Republic"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			6.3201934408027		
@@ -152,29 +152,29 @@
 "GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.11652543060633		
 "GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	0.0794868473099752		
 "GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-7.67087385341348		
-"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-56.9686237589512		
+"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-56.883552937831		
 "GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	33.4960133917776		
-"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-21.0011404195058		
-"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	27.7424927126966		
-"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	21.7806393469942		
-"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	8.7009527312681		
-"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	6.1916632608676		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	6.13634602080819		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	4.47313696038704		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	5.3023261768301		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	4.06038090444995		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	7.81937111565448		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	3.23859698896402		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	3.64888646215351		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	2.82951130555695		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-1.50350360632745		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-47.5990184053456		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	20.1253944298456		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-23.8903260154722		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	19.9913719244885		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	12.8611110817		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	10.4926545818181		
-"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	7.70084037022914		
+"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-21.0011404195059		
+"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	27.6944364210555		
+"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	21.7806393469944		
+"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	8.70095273126803		
+"GBR"	"United Kingdom"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	6.19166326086735		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	6.09405117936943		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	4.39588682479007		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	5.46047215652777		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	4.18616075437514		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	7.96994512378807		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	3.10239930798453		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	3.68243498307954		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	2.73436344678952		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-1.55334825783618		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-47.651437180799		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	20.4428184111446		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-23.5546093312321		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	20.1816570273521		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	12.4428719808675		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	10.308414633602		
+"HUN"	"Hungary"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	7.04846860112997		
 "CHL"	"Chile"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2013"	"2013"	5.11227370564202		
 "CHL"	"Chile"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2013"	"2013"	3.64583925064955		
 "CHL"	"Chile"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2013"	"2013"	-0.45906270475567		
@@ -191,38 +191,38 @@
 "CHL"	"Chile"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2013"	"2013"	9.29256640496694		
 "CHL"	"Chile"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2013"	"2013"	3.70990595314514		
 "CHL"	"Chile"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2013"	"2013"	3.28774676581573		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.22821607484015		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.37517098273671		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-1.39485169089957		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.419039782761716		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.63412390265692		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.42468692160826		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.69550104327388		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.26099250318931		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-18.4164920796492		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-39.7078644215364		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	40.5705108794479		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-19.8933622338114		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	16.0669129106847		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	6.63898434857696		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.09164598959549		
-"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.19180459896167		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	0.967879601709598		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	0.647626385329173		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	1.12508354453208		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	2.03518894042036		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	1.53920288163576		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	1.21475157219818		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	1.06683850706766		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	-0.300093912105049		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	-21.3676660472596		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	-53.6641968978768		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	71.347530456443		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	-25.9428383711151		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	24.7156298553695		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	14.9472463069292		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	6.61503587499127		
-"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	4.55643156083522		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.06914386787802		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.41507997593055		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-1.32202686447253		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.256241284892204		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.52418057397963		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.44415788837802		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.77213498739754		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.35770586414118		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-10.027289983082		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-39.9779595096155		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	23.4680699798866		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-23.071531630512		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	16.6595731792481		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	14.8013183920369		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	9.62930296216919		
+"CHE"	"Switzerland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.11749097693819		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	0.655622252553164		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	0.765364826582723		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	1.40677586746276		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	2.57901172544616		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	2.03665755126051		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	1.02501157610702		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	0.842095527234301		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	-0.352750893074651		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	-19.7200044983665		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	-54.7930524405733		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	70.9541162165763		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	-25.9559130112569		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	24.6274383433668		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	15.1274349534834		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	6.65333605581444		
+"FRA"	"France"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2014"	"2014"	4.64086150055348		
 "DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			3.48558621222662		
 "DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			3.42751273737842		
 "DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			3.39035290491599		
@@ -233,12 +233,12 @@
 "DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			3.17520460745678		
 "DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			3.35823711418008		
 "DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			4.51579823983811		
-"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			5.21549174801841		
-"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			5.64583367227481		
-"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			5.78283595240284		
-"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			5.51907497905273		
-"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			5.26993781187251		
-"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			5.03423043594502		
+"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			5.13881300739593		
+"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			5.47099325199233		
+"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			5.60824940046728		
+"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			5.39118611286463		
+"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			5.14171171497009		
+"DEU"	"Germany"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			4.90568528682064		
 "SVK"	"Slovak Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.51435361740305		
 "SVK"	"Slovak Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.57326090051735		
 "SVK"	"Slovak Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.89464773815826		
@@ -263,14 +263,14 @@
 "CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.99302509403444		
 "CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.722204563742		
 "CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.87231545670818		
-"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-13.6312405616042		
-"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-47.4944812209804		
-"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	26.2300019667657		
-"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-36.5939501024391		
-"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	21.0756390318114		
-"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	25.7715120627532		
-"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	14.3396520398789		
-"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	9.58447138701676		
+"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-12.6745731906192		
+"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-47.259638698105		
+"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	27.0572403693082		
+"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-36.206961337176		
+"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	21.3804797901734		
+"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	25.2677093996795		
+"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	14.3257732636689		
+"CZE"	"Czech Republic"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	9.54936332293478		
 "ESP"	"Spain"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			16.1537514185543		
 "ESP"	"Spain"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			15.4305769906924		
 "ESP"	"Spain"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			14.9417582316124		
@@ -327,30 +327,30 @@
 "USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	2.01381860989409		
 "USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	2.10350658188971		
 "USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	2.12662950408689		
-"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-4.81952077997531		
-"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-41.9324691777744		
-"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	19.3608536695658		
-"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-13.9505917216859		
-"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	14.2790796574245		
-"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	9.02765705404539		
-"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	6.11948824546997		
-"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	3.52606600803829		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.36207562661467		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.57404248995724		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.39791994215113		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.49165619590658		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.02621281452995		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.66318157012249		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.79468544363539		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.4491938102348		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-12.182094791802		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-42.7807538594162		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	25.6220742999402		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-19.5062292130868		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	16.0090318197925		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.02754947243463		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	7.70119774103727		
-"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.8414958963651		
+"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-5.04709077182583		
+"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-41.3840608012117		
+"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	18.7939000476581		
+"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-10.3428356758291		
+"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	11.2861588679927		
+"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	9.07660544054504		
+"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	6.15282477588997		
+"USA"	"United States"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	3.54389685687897		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.36158175701791		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.57538773401814		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.39837528932194		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.48788390796839		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.02723011004371		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.66523105408643		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.80106771608964		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.46504036011942		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-13.9654932729947		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-39.4952992071769		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	19.6857543095186		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-17.1518159106531		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	14.0250746947955		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.27789167848872		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	7.03799574899752		
+"EST"	"Estonia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.40586849099947		
 "NOR"	"Norway"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			3.79306328448644		
 "NOR"	"Norway"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			3.76351867741559		
 "NOR"	"Norway"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			3.93315571592127		
@@ -375,46 +375,46 @@
 "LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.56294632741127		
 "LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.20457799546509		
 "LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.3304280331531		
-"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-0.929114447330234		
-"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-53.7632145659406		
-"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	31.3993199757704		
-"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-19.6991594938664		
-"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	27.0736032673542		
-"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	16.8648022122292		
-"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	8.21765456043655		
-"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.20234083841571		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.42437772117805		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	3.24836748731648		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	1.78918965213534		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	1.78560358684821		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.70385804970507		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.01171307178147		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	1.23833918563927		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	3.02696459513609		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-14.8158740055413		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-48.1232192912202		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	42.7093065497875		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-18.9963824222825		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	17.85707213387		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	20.0694592191742		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	5.78569909951316		
-"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.99459784080365		
+"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-1.3659179366859		
+"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-53.7584085631509		
+"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	32.93761083075		
+"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-19.8050257500245		
+"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	21.8836459624217		
+"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	16.6383523694412		
+"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	7.91522839676935		
+"LTU"	"Lithuania"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.79926928652015		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.4329892968791		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	3.24171485374368		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	1.76578129512815		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	1.7540565079634		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.90965598908313		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	1.97770744164099		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	1.04496449332202		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.97753818990669		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-14.221544690558		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-48.1035344434019		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	42.1203610617862		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	-18.3452769096682		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	17.8171301002038		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	19.4596392545511		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	5.7287353245407		
+"PRT"	"Portugal"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2016"	"2016"	2.96723720573388		
 "CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	2.19128983584487		
 "CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	1.57151599589474		
 "CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	2.45429229581708		
 "CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	0.979806862529834		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	0.974882407556418		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	3.44876449719526		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	1.12646479765956		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	0.343321032172243		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-9.80896099065506		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-41.8866553558339		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	24.409363908247		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-13.9347170185484		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	15.3203925235314		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	7.96777275145351		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	4.36314448081762		
-"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	4.27198365283041		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	1.15153245779423		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	3.24441955865422		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	1.12132543656259		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	0.560226598825019		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-8.17282152162236		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-37.886871349483		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	13.012983223138		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	-14.0502757810629		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	15.6454739483824		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	8.1582926427936		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	4.50006838051862		
+"CAN"	"Canada"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2012"	"2012"	4.40713853418057		
 "HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			3.71931831459958		
 "HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			3.63342686062048		
 "HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			3.78565352513647		
@@ -424,13 +424,13 @@
 "HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			3.43648338335937		
 "HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			3.41372205098119		
 "HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			3.59264169974569		
-"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			9.25397783252231		
-"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			9.11816399956047		
-"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			10.9930234374105		
-"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			9.5311857793713		
-"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			8.41984649901956		
-"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			7.51525801676529		
-"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			6.71362365813037		
+"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			7.43114025492788		
+"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			7.29259829623265		
+"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			9.20511849490054		
+"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			7.71391654571367		
+"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			6.58025352098952		
+"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			5.65749434829253		
+"HUN"	"Hungary"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			4.83975736391701		
 "NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	2.47590142331439		
 "NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	3.01654733956001		
 "NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	1.56790918470515		
@@ -441,44 +441,44 @@
 "NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	0.620575814361952		
 "NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	-3.59792599543523		
 "NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	-47.7233745162628		
-"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	21.7638003491813		
-"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	-14.7988327827809		
-"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	13.6518687806733		
-"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	10.8445401973557		
-"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	10.6682160881624		
-"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	9.40604920690324		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	3.70360944053106		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.95081339400121		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	1.37912688306827		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	0.606247323983418		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	1.90763225766088		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.35677998846124		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.16892269762009		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.08662261345496		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	-2.16105482931162		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	-39.9108052801612		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	29.6727568190479		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	-15.7344297869226		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	9.23556606778592		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	4.54068842322602		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.6462134664406		
-"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.52842772982757		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			9.20335497812002		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			9.09120572461208		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			9.01877114637813		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			8.75968609184443		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			8.69572733073085		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			8.45090981360515		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			8.48441002021017		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			8.14116910372037		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			7.79958350139247		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			11.3031993283396		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			12.4058447867143		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			13.6925781549918		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			12.4461214605134		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			11.5219591345598		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			10.6729095620805		
-"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			10.2506430076132		
+"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	21.7634349024437		
+"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	-9.60893710803486		
+"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	13.7040383435956		
+"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	10.8625395043132		
+"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	12.0156830991392		
+"NZL"	"New Zealand"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2009_10"	"2009-10"	10.7145759213669		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	3.66032394278606		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	3.18713252744254		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	1.25754804875336		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	0.625891493056412		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	1.73202164408294		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.39173305542296		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.17985609019283		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.06311228863637		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	-1.21785128316204		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	-39.4730647052694		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	29.0852703968907		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	-13.7502567301954		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	9.10182825923069		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	5.82226656533323		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	3.70461157362863		
+"AUS"	"Australia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2016_17"	"2016-17"	2.80338853543207		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			9.20135145411081		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			9.09133738726595		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			9.01897619436596		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			8.76126570619054		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			8.69351472363687		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			8.45098129318492		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			8.48448776223633		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			8.14309396883788		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			7.80115600022033		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			11.304712072212		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			12.4073387247206		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			13.6940501474713		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			12.4476147115919		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			11.5234681474346		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			10.6744330556867		
+"FRA"	"France"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			10.2521737030703		
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	6.04182681466211		
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-2.76035812020713		
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.45935231554467		
@@ -495,22 +495,22 @@
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.05771586541191		
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	6.22682278064806		
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.94404375007207		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.21367267242099		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.10866406734845		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.23508756858477		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.36688374758124		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.90709125185518		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.282033853824345		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.637319101317552		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.90475817406104		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-7.44988083202185		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-34.052102579749		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	25.619535475959		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-12.6686793947855		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	14.0487142031539		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.65076089228626		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.50766633804714		
-"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-2.01872418646883		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.22403723327599		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.03879376176123		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.20716619701091		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.32935099364804		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.90499528106587		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.291935127244888		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.0618151522161711		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.0531063157588042		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-9.86591474835213		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-32.6120742319045		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	26.4477226642895		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-12.6572071949132		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	14.3518653993226		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.80247952638351		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.20195842648171		
+"AUT"	"Austria"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.00786496477250869		
 "POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			4.06333682617301		
 "POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			3.84190642255158		
 "POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			3.85446475500788		
@@ -519,14 +519,14 @@
 "POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			3.39082482693887		
 "POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			3.14594848876867		
 "POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			2.9		
-"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			4.64954954954955		
-"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			9.43141767645278		
-"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			7.98086981141099		
-"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			9.02101396422356		
-"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			8.93909191576714		
-"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			8.57484828343021		
-"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			8.20004264195641		
-"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			7.81455991759746		
+"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			2.23905905905906		
+"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			8.51458585968114		
+"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			10.5475950627994		
+"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			10.4401232106521		
+"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			10.2161115128298		
+"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			9.13870485098382		
+"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			8.28469407766039		
+"POL"	"Poland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			7.47776077220487		
 "JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			2.47022496691663		
 "JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			2.38757873150725		
 "JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			2.44509516837482		
@@ -536,45 +536,45 @@
 "JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			2.32738181642229		
 "JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			2.29846287283766		
 "JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			2.39486263338328		
-"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			3.93124130637769		
-"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			3.79662355835331		
-"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			4.50395963023223		
-"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			4.36089400014529		
-"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			4.21775699803062		
-"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			3.86163891034749		
-"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			3.82564326182338		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.0935623462452		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.58995019621545		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.19836791214542		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.15916942719111		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.28511512397371		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.093045565880842		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.16496426862734		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.67396300083293		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-6.84546834045908		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-37.7654865378485		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	11.4727167743831		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-15.9551531223813		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	16.6338745292834		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.10662470748177		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.19052167314508		
-"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.27801801168317		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			8.52130933115475		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			8.28357137431622		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			8.05833340848817		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			7.89188390914546		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			7.72495698221675		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			7.5858180388098		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			7.54572852496667		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			7.38434711245959		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			7.44878204051128		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			10.4184730816958		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			11.5134818390702		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			13.0570327068744		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			12.3662940393908		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			11.5786185594415		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			10.8697098492007		
-"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			10.3143375627725		
+"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			3.60884143571538		
+"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			3.46385557816979		
+"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			4.00469559263204		
+"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			3.98070576084385		
+"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			3.90652534786827		
+"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			3.81793887610546		
+"JPN"	"Japan"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			3.80594236060883		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.0930205032272		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.58970202661719		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.19870244059607		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.15992566911762		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.28453311039337		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.0937945225518193		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.16575523074416		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.67436332837064		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-16.9308031869429		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-26.4080677268996		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	11.2467260041088		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-17.7939048542191		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	13.579397542846		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.27075919219326		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.36699637557443		
+"SVN"	"Slovenia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.46692224236189		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			8.52099435768019		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			8.28360144072535		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			8.05839848027042		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			7.89208484030695		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			7.72463304618742		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			7.58584256306813		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			7.54576780964967		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			7.38459386056231		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			7.41733093324688		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			10.1501535340143		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			11.1441343910544		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			12.6108481628678		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			11.9377414454454		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			11.2217257187804		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			10.6453181521851		
+"EA17"	"Euro area (17 countries)"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			10.1655798066938		
 "SWE"	"Sweden"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			6.14630722917526		
 "SWE"	"Sweden"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			6.31675051010716		
 "SWE"	"Sweden"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			6.41374794215386		
@@ -591,38 +591,38 @@
 "SWE"	"Sweden"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			11.3579908868233		
 "SWE"	"Sweden"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			10.8090691364221		
 "SWE"	"Sweden"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			10.2567481502513		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.01855771097685		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.45189854518407		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.788311492012714		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.52825906900656		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.89593733521782		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.525775924109598		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.31414197795932		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.295928782631597		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-13.8627287257897		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-49.0708456858592		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	50.2424292400997		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-22.754119927233		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	19.0240385651925		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	11.0890812804119		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.62535628917974		
-"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.98084593695632		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.54630414263543		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.49351867233168		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.43049220025743		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.44502458798372		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.50157413224063		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.40219113642752		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.38159394675465		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.26180475685774		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.57041369057765		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	11.5634527731391		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	10.8167326321016		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	12.8179784148247		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	11.3512945293197		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	10.285654769442		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.59027342417118		
-"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.07480176547344		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.966660280048763		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.47240300930606		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.837237050894232		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.66052259718879		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.07513960856931		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.408935976052779		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.22386633591837		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.2480637900791		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-13.5793802694439		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-48.7180326833942		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	51.3733921981216		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-22.6385822263884		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	19.0851611621591		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	11.6438350511483		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	6.09032313269058		
+"EA17"	"Euro area (17 countries)"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.16154709156379		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.54596929489487		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.49319041304836		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.43065333125739		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.44551577879698		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.50106481551785		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.40166986571093		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.381822022722		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.26272003976251		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.3514566124962		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	11.4302321382064		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	10.645752200657		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	12.5974228467165		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	11.1145107030979		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	10.0603969251075		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.42056048524385		
+"OTO"	"OECD - Total"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	8.89767771774176		
 "ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.98157926513808		
 "ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.19876314347844		
 "ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.02230581600761		
@@ -633,12 +633,12 @@
 "ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.65074446352062		
 "ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-19.3598745429315		
 "ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-56.975239798839		
-"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	76.1807700971992		
-"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-31.0656861990114		
-"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	26.4964516288676		
-"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	20.7531699721738		
-"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.81267535737179		
-"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.33348194853123		
+"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	76.1808653432469		
+"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-31.0657454426421		
+"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	26.4963862957394		
+"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	20.7531280592835		
+"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.81262889968399		
+"ESP"	"Spain"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.33348001792424		
 "NLD"	"Netherlands"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			4.06136188058713		
 "NLD"	"Netherlands"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			3.8873012383674		
 "NLD"	"Netherlands"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			3.80258604989984		
@@ -665,12 +665,12 @@
 "JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	-7.25941445376598		
 "JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	-3.37236808845425		
 "JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	-33.3208461060304		
-"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	18.5404826832238		
-"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	-20.144908527732		
-"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	13.2225727298674		
-"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	1.19866317274092		
-"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	0.552507346738613		
-"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	0.376273674464464		
+"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	27.0169430306412		
+"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	-13.7928801140819		
+"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	6.9242666546334		
+"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	0.541315970827251		
+"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	0.565687586325501		
+"JPN"	"Japan"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2011"	"2011"	0.380889236829775		
 "FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			8.19135095367675		
 "FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			7.25534864601197		
 "FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			7.27776914682444		
@@ -683,10 +683,10 @@
 "FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			10.3603437906825		
 "FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			8.99159454916291		
 "FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			10.5010653985745		
-"FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			9.55163466866341		
-"FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			9.18776923290246		
-"FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			9.21064899487983		
-"FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			9.29798615883498		
+"FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			10.6853194957131		
+"FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			10.345966220552		
+"FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			10.0152394618246		
+"FIN"	"Finland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			10.0007568321066		
 "KOR"	"Korea"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			3.76193472295653		
 "KOR"	"Korea"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			3.77883560012402		
 "KOR"	"Korea"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			4.00503751250117		
@@ -711,30 +711,30 @@
 "ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	13.4785308663013		
 "ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-3.7692495498915		
 "ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	20.6769696337274		
-"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-27.3342397928341		
-"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-34.9020762119097		
-"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	2.79285184052334		
-"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-3.36517905293471		
-"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	15.1327571964128		
-"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	9.94572479470011		
-"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	10.4990366146368		
-"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	11.012277391008		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.94292950430995		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.32992742424454		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.84645097524082		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.77201817486253		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-1.47063892366927		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.22494600333215		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.65651181011935		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.11042993210574		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-5.48944696711523		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-14.7336205637554		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	10.6760606163965		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-11.9009189380834		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.80533252655828		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.49906296668483		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.69997933594117		
-"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.7430442178482		
+"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-25.2347677664546		
+"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-33.9234376429705		
+"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	3.39344246722604		
+"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	-17.1825277407362		
+"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	24.4061898504368		
+"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	8.78215368930097		
+"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	10.1596137427402		
+"ISL"	"Iceland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2005"	"2005"	8.06857745696581		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.33378066526804		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.48490334822573		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.32839725040305		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.50695849467401		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-1.35186949363561		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.11869798544649		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.51029940759768		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.35064829372257		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-5.0290800572838		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-14.996605483029		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.91952348186378		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-11.6756154749237		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.49028402453569		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.0221947984653		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.16233018145587		
+"KOR"	"Korea"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.20673006879046		
 "PRT"	"Portugal"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			7.44152785614503		
 "PRT"	"Portugal"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			7.09178875205778		
 "PRT"	"Portugal"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			6.92423923704868		
@@ -799,38 +799,38 @@
 "ISR"	"Israel"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			9.69065921246079		
 "ISR"	"Israel"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			8.25146653058768		
 "ISR"	"Israel"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			6.78005365195681		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.0978080443921743		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.177690284217547		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.224266537811105		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.390092300828889		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.795545858708285		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.51946008314812		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.26843908161371		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-1.0308573338863		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-17.6482765065423		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-54.6178440955675		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	68.8224067825844		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-23.541180656488		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	21.0370229318154		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	7.01646301000629		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.03257095458495		
-"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.07092547192918		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.97389440540739		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.330136489376421		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.636483947949912		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.82690832987688		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.16741024128798		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.21869428881921		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.36988327865299		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-2.20139748687885		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-5.90153885631396		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-45.0623649854447		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	28.4964386857793		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-14.93320980294		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	14.8746927570545		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	10.9715740543562		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	8.27878938147363		
-"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.04791268741066		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.0235628549195515		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.0493445199453776		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.301962612722522		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.617396511260718		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.869476585758094		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.293101422704985		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	0.102200517031895		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.967082796963304		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-19.6053701723642		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-51.7734949740698		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	61.2352369523567		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-27.7665217339515		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	30.700221876873		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	13.3224227451654		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	6.24901038358297		
+"ITA"	"Italy"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	4.45399400035039		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.09520086658983		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.588724300181109		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-0.487583387250189		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.7227808166203		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.38167210769064		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.82051738367601		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.40218179384257		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-2.33226122771518		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-3.39298390293638		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-41.8181008142168		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	21.4628523863867		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-15.002261249657		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	15.9910326198989		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	10.6223783886645		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	5.80274653916124		
+"FIN"	"Finland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.99570533017391		
 "IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			5.93547845081072		
 "IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			5.77541894772034		
 "IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			5.64025660251604		
@@ -840,13 +840,13 @@
 "IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			4.92931776275353		
 "IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			4.70144410189843		
 "IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			4.94851143967624		
-"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			18.2557198381216		
-"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			16.0217349224668		
-"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			19.1226739434285		
-"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			17.9620704824505		
-"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			17.377128723178		
-"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			16.9497021460001		
-"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			16.5200643956198		
+"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			15.9873790730951		
+"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			12.3272547571307		
+"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			16.0095100573312		
+"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			14.1617192785925		
+"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			13.1347408452357		
+"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			12.4418973026254		
+"IRL"	"Ireland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			12.0054162323493		
 "GBR"	"United Kingdom"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			4.19727488151659		
 "GBR"	"United Kingdom"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			4.03863818187206		
 "GBR"	"United Kingdom"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			4.07300047326077		
@@ -872,45 +872,45 @@
 "DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.05133833286295		
 "DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-0.409579353849018		
 "DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-8.5956367686259		
-"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-43.1759401855962		
-"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	37.5206338872481		
-"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-21.9740541963748		
-"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	15.2927309800213		
-"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	7.56218046769023		
-"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.11204112755477		
-"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.19794251625638		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-2.76521676567749		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	10.5076077735821		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.21988267194724		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.552626239628172		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	11.1105031685664		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-1.67671343553031		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	8.54619963815236		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.60396400580295		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	1.5309842361007		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-52.6337886555642		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	30.8081278575163		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-18.2063184911129		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	12.9707618836716		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.88727830585878		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	6.76790583677516		
-"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	5.73467040663776		
+"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-42.5476963857459		
+"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	45.486790067286		
+"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-19.3644080440254		
+"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	10.8435241259902		
+"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	6.11578784499061		
+"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.28658559654931		
+"DEU"	"Germany"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.3902443930134		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-2.03503357209455		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	9.89970862387087		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.27723722993459		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.208491816973802		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	12.0731648476153		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-2.23724319292817		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	8.66562144486496		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.08805215200106		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	4.74693634938419		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-54.7004180255094		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	31.1526776654876		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-19.2091957093751		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	12.8891959162006		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.96383720748112		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	6.79429727765364		
+"IRL"	"Ireland"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	5.7239642120474		
 "BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.909681763909162		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.15959015221943		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.676331420730654		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.1595901522196		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.676331420730485		
 "BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.2451432823293		
 "BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.400024957068898		
 "BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.16221188048331		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.63763974082938		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.9412594058457		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-14.8946164355299		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-45.5022882466028		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	40.6023774905821		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-20.884199420777		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	20.2163323983209		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	11.8068048056466		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.09497717357373		
-"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.61952836545783		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.63763974082921		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.94125940584588		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-13.6229331739533		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-47.1119440250946		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	41.3656939089291		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-20.8209369617092		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	20.5026585857052		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	11.9259589855529		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.18189140716211		
+"BEL"	"Belgium"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.68043337814693		
 "LTU"	"Lithuania"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			6.68530994328319		
 "LTU"	"Lithuania"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			6.0076462932905		
 "LTU"	"Lithuania"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			5.9259412663853		
@@ -959,38 +959,38 @@
 "LUX"	"Luxembourg"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			8.72137549900275		
 "LUX"	"Luxembourg"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			8.60971948050145		
 "LUX"	"Luxembourg"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			8.33353164634196		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.02755435587335		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.27326679922399		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.27010730848935		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.03085707355372		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.44192075909242		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.69942816549344		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.67419385389667		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.70782621924919		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-7.22738284670423		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-43.7763340550528		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	29.2708050567708		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-18.1644481432833		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	16.0439202676334		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.41899990312277		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.43477182150554		
-"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.76041840266857		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	2.95598361821217		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	2.59532780304385		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-2.12400198952996		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	5.09769641702063		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.148992877325988		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.91922863245819		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	1.50368789332762		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.631137523246453		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-2.02991185386564		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-35.0377457682914		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	6.41954311659238		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-10.9692473390615		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	9.38355630706496		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.75125637381517		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	6.29279770457834		
-"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	4.06714209904317		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.01917199377038		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.32307678230151		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.27983601840212		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.997855130304431		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.58458109197712		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.64658690698113		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.61383878342888		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	0.62637009144299		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-7.08641015368831		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-43.1139047263526		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	29.3512692913516		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-16.5920719252823		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	14.463846444647		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	9.79432183655272		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.77211867609012		
+"OTO"	"OECD - Total"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.86519729943571		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	1.77031388305773		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	3.10956361397153		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-1.76952696517193		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	4.79920246306116		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.838000472889518		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.249527825821484		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.988091345305203		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-0.0927683508545332		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	0.488207685263745		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-36.7044863311624		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	6.98310452652217		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	-11.1852684783248		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	9.63236736062536		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	7.88144510709893		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	6.35111338633919		
+"SWE"	"Sweden"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2017"	"2017"	4.04236810044753		
 "BEL"	"Belgium"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			6.1		
 "BEL"	"Belgium"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			6.23333333333334		
 "BEL"	"Belgium"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			5.73333333333333		
@@ -1018,11 +1018,11 @@
 "AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			5.16483695384263		
 "AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			8.09184815897097		
 "AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			8.27241427260757		
-"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			9.75338437516886		
-"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			9.8430927406011		
-"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			9.75320549507832		
-"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			9.57307217271318		
-"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			9.3925793027984		
+"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			9.10462019150528		
+"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			9.14979682162878		
+"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			8.92335065219114		
+"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			8.65080207558922		
+"AUS"	"Australia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			8.37743789227421		
 "NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			4.32852386237514		
 "NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			4.51707675358061		
 "NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			3.99413704653719		
@@ -1034,11 +1034,11 @@
 "NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			4.1771696074901		
 "NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			8.75383956428664		
 "NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			9.57423461315915		
-"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			10.1342023972167		
-"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			9.73942453234826		
-"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			9.24398225183724		
-"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			8.69158581573287		
-"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			8.18199131759465		
+"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			10.0438850126913		
+"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			9.64871038614962		
+"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			9.15277017369839		
+"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			8.59981856529641		
+"NZL"	"New Zealand"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			8.0897119118837		
 "CHE"	"Switzerland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			4.92993074700468		
 "CHE"	"Switzerland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			4.93026394896126		
 "CHE"	"Switzerland"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			4.17922716592725		
@@ -1071,3 +1071,51 @@
 "NLD"	"Netherlands"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	13.0011314142156		
 "NLD"	"Netherlands"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	8.78691067659321		
 "NLD"	"Netherlands"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	5.12135282748513		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	5.43877589475835		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.32178205719404		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.09844210736106		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.18267295812824		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.53107265060443		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.84571779193805		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.73892534338227		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	1.73139858520376		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-8.08379739568555		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-31.5127632821397		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	15.7660519797277		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	-11.8529955669262		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	9.34509260876736		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	5.56196273454011		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	3.7096511291424		
+"DNK"	"Denmark"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2010"	"2010"	2.12025484285471		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.59718655620156		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.43188026163628		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.86027682881176		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.27986939851841		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.91657649500371		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	6.45644451069805		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	3.19793374799831		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	1.91097685179228		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-9.20537039509243		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-42.8203316273094		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	43.1335682206304		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	-16.031587980742		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	12.2368569303852		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	8.4926743415625		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	4.77664052487094		
+"COL"	"Colombia"	"GDPV_ANNPCT"	"Gross domestic product, volume, growth"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"	"2015"	"2015"	2.96384874803797		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q1"	"Q1-2018"	"PC"	"Percentage"	"0"	"Units"			9.34664772341507		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q2"	"Q2-2018"	"PC"	"Percentage"	"0"	"Units"			9.64741570506296		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q3"	"Q3-2018"	"PC"	"Percentage"	"0"	"Units"			9.57386704900052		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2018-Q4"	"Q4-2018"	"PC"	"Percentage"	"0"	"Units"			10.1380746185783		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q1"	"Q1-2019"	"PC"	"Percentage"	"0"	"Units"			10.4405204773627		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q2"	"Q2-2019"	"PC"	"Percentage"	"0"	"Units"			10.3406128080016		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q3"	"Q3-2019"	"PC"	"Percentage"	"0"	"Units"			10.7066823072344		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2019-Q4"	"Q4-2019"	"PC"	"Percentage"	"0"	"Units"			10.5154102861061		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q1"	"Q1-2020"	"PC"	"Percentage"	"0"	"Units"			11.191843209709		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q2"	"Q2-2020"	"PC"	"Percentage"	"0"	"Units"			23.0631376377989		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q3"	"Q3-2020"	"PC"	"Percentage"	"0"	"Units"			19.9856631433109		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2020-Q4"	"Q4-2020"	"PC"	"Percentage"	"0"	"Units"			25.1865950389957		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q1"	"Q1-2021"	"PC"	"Percentage"	"0"	"Units"			22.2688722455165		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q2"	"Q2-2021"	"PC"	"Percentage"	"0"	"Units"			20.2478629238999		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q3"	"Q3-2021"	"PC"	"Percentage"	"0"	"Units"			19.0515808677585		
+"COL"	"Colombia"	"UNR"	"Unemployment rate"	"Q"	"Quarterly"	"2021-Q4"	"Q4-2021"	"PC"	"Percentage"	"0"	"Units"			18.1611482573038		

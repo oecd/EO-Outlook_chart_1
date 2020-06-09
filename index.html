@@ -102,7 +102,7 @@
         </div>
         <div  id="note" class="source">Divergences for 2019-Q4 are due to data revisions and changes in the base years in country national accounts.</div>
     <div class="flex-container" id="Downloadbanner">
-        <a class="toData" id="countryNote1" href="" target="_blank">Country Note</a>
+        <a class="toData" id="countryNote1" href="https://www.oecd-ilibrary.org/economics/oecd-economic-outlook/volume-2020/issue-1_0d1d1e2e-en" target="_blank">Country Notes</a>
         <a class="toData" id="countryNote2" href="" target="_blank">Country Note</a>
         <a class="toData" id="snapshot" href="http://www.oecd.org/economy/surveys" target="_blank">Economic Snapshot</a>
     </div>
@@ -111,9 +111,9 @@
                 <img id="shuttershare" src="img/cross.svg">
                 <div id="trackersText">
                     <b>Copy link:</b><Br />
-                    <span>https://gitvfd.github.io/EO-Outlook_chart_1/</span><Br />
+                    <span>https://oecd.github.io/EO-Outlook_chart_1/</span><Br />
                     <b>Embed link:</b><Br />
-                    <textarea readonly><iframe src="https://gitvfd.github.io/EO-Outlook_chart_1/" width="100%" height="500px" style="border:none;"></iframe></textarea>
+                    <textarea readonly><iframe src="https://oecd.github.io/EO-Outlook_chart_1/" width="100%" height="500px" style="border:none;"></iframe></textarea>
 
                 </div>
             </div>
@@ -267,14 +267,15 @@
         }
         function launchViz(){
             updateChart();
-            updateButton();
+            //updateButton();
         }
 
         function render(err,scenario1Data,scenario2Data,pastForecasts,countryBut) {
             allScenario1=scenario1Data;
             allScenario2=scenario2Data;
             pastScenario=pastForecasts;
-
+console.log(allScenario1)
+            console.log(allScenario2)
             countryNotes= countryBut;
 
             countryList = d3.nest()
@@ -934,7 +935,7 @@
     initComparisons();
         $("#country_dropdown").change(function () {
             updateChart();
-            updateButton();
+           // updateButton();
         });
 
         $("#indicator_dropdown").change(function () {
